@@ -1,0 +1,560 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,Fox News,BREAKING: Federal appeals court rules against Trump administration on DACA https://t.co/KHnrNvEKAM,Thu Nov 08 19:18:44 +0000 2018,0.0,0.0,1.0,0.0
+1,Fox News,"Breaking News: Grand jury indicts captain of Missouri duck boat that sank in severe weather, killing 17 people https://t.co/ffOOgzRwdo",Thu Nov 08 17:02:25 +0000 2018,-0.6124,0.115,0.615,0.269
+2,Fox News,"JUST IN: Police identify gunman who opened fire inside California bar, killing 12 https://t.co/PvITYr54AX",Thu Nov 08 15:14:45 +0000 2018,-0.7783,0.0,0.638,0.362
+3,Fox News,JUST IN: Supreme Court Justice Ruth Bader Ginsburg fractures 3 ribs in fall https://t.co/9UM9hKTz4m,Thu Nov 08 14:22:51 +0000 2018,0.7906,0.389,0.611,0.0
+4,Fox News,"Sgt. Ron Helus was fatally shot when he responded to the mass shooting on Nov. 7 at a bar in Thousand Oaks, Califor… https://t.co/vOH3OWPN5S",Thu Nov 08 13:43:25 +0000 2018,-0.6369,0.0,0.833,0.167
+5,Fox News,Tom Homan: “It’s a tragedy each and every time.” https://t.co/dMV68Hfdz0 https://t.co/hrq51VJg7x,Thu Nov 08 13:35:03 +0000 2018,-0.6597,0.0,0.672,0.328
+6,Fox News,"People walk away from the scene in Thousand Oaks, Calif. where a gunman opened fire Wednesday.… https://t.co/O3Oo2iLL8O",Thu Nov 08 13:22:27 +0000 2018,-0.34,0.0,0.862,0.138
+7,Fox News,Teylor Whittler describes what she witnessed at California bar shooting https://t.co/dMV68Hfdz0 https://t.co/YznTZgQoYY,Thu Nov 08 12:56:20 +0000 2018,0.0,0.0,1.0,0.0
+8,Fox News,"An FBI agent talks to a potential witness as they stand near the scene in Thousand Oaks, Calif. where a gunman open… https://t.co/7QOmXNTYM0",Thu Nov 08 12:37:05 +0000 2018,0.0,0.0,1.0,0.0
+9,Fox News,Ventura County Fire Department Captain Stan Ziegler: “Hundreds of first responders responded initially to the scene… https://t.co/o4gArhmy4e,Thu Nov 08 12:25:14 +0000 2018,-0.34,0.0,0.87,0.13
+10,Fox News,"People comfort each other as they stand near the scene in Thousand Oaks, Calif. where a gunman opened fire during a… https://t.co/wPI4XSpirC",Thu Nov 08 12:06:14 +0000 2018,0.0258,0.105,0.795,0.1
+11,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/dMV68Hfdz0 https://t.co/WvjarPpwPV",Thu Nov 08 11:54:22 +0000 2018,-0.6486,0.0,0.736,0.264
+12,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/GqI77wMuYZ",Thu Nov 08 11:38:17 +0000 2018,-0.6486,0.0,0.719,0.281
+13,Fox News,"Sheriff's deputies speak to potential witnesses as they stand near the scene in Thousand Oaks, Calif., where a gunm… https://t.co/jPE8k9oQHr",Thu Nov 08 11:32:26 +0000 2018,0.0,0.0,1.0,0.0
+14,Fox News,13 dead in country music bar including gunman https://t.co/PvITYr54AX https://t.co/UURBIatqte,Thu Nov 08 11:26:46 +0000 2018,-0.6486,0.0,0.677,0.323
+15,Fox News,"12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/PvITYr54AX https://t.co/o8Nf8WuJcZ",Thu Nov 08 11:18:08 +0000 2018,-0.6486,0.0,0.719,0.281
+16,Fox News,"Breaking News: At least 12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/u6sVxdzHq5",Thu Nov 08 11:13:32 +0000 2018,-0.6486,0.0,0.765,0.235
+17,Fox News,.@CarleyShimkus is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/cQ9uxkjUIK,Thu Nov 08 11:12:14 +0000 2018,0.0,0.0,1.0,0.0
+18,Fox News,"Authorities deliver an update on the shooting in Thousand Oaks, California. (Courtesy: KABC) https://t.co/BtGxxIfNx5",Thu Nov 08 10:53:33 +0000 2018,0.0,0.0,1.0,0.0
+19,Fox News,Pastor Dimas Salaberrios on California shooting: “My immediate thoughts go out to the families. Because what’s happ… https://t.co/iowf5VOL2l,Thu Nov 08 10:36:12 +0000 2018,0.0,0.0,1.0,0.0
+20,CNN,"China has completed its first public test of a Mars lander, keeping the country on track for an unmanned exploratio… https://t.co/dQUNt5VmwE",Sat Nov 16 09:16:04 +0000 2019,0.0,0.0,1.0,0.0
+21,CNN,A child prodigy from Belgium is on course to gain a bachelor's degree at the tender age of nine. He plans to embark… https://t.co/wTSpw6Gwaq,Sat Nov 16 09:01:04 +0000 2019,0.5267,0.139,0.861,0.0
+22,CNN,"Here's what it's like to fly on the world's longest passenger flight, from London to Sydney in 19 hours and 19 minu… https://t.co/hwZzMDqS7o",Sat Nov 16 08:46:08 +0000 2019,0.3612,0.102,0.898,0.0
+23,CNN,"Meet the gaming world's first transgender hero. ""Tell Me Why"" by Xbox Game Studios is the first video game by a maj… https://t.co/uRUipI2wD1",Sat Nov 16 08:31:03 +0000 2019,0.5574,0.146,0.854,0.0
+24,CNN,"You can get paid $1,000 to binge watch 24 Hallmark Christmas movies in 12 days https://t.co/RloLTfelx3 https://t.co/469SbctMKo",Sat Nov 16 08:16:05 +0000 2019,0.0,0.0,1.0,0.0
+25,CNN,Pope Francis said some of the things he's heard targeting Jews and the LGBTQ community remind him of the days of Ad… https://t.co/3bV1mIRFyJ,Sat Nov 16 08:01:07 +0000 2019,0.0,0.0,1.0,0.0
+26,CNN,This is the world's largest Starbucks https://t.co/fZqY1X8b4H https://t.co/GPCLleq8qY,Sat Nov 16 07:46:06 +0000 2019,0.0,0.0,1.0,0.0
+27,CNN,"Whether or not you can read and write could be a factor in your ability to stave off dementia as you grow older, ac… https://t.co/t4vCRv4udb",Sat Nov 16 07:39:09 +0000 2019,0.3182,0.091,0.909,0.0
+28,CNN,"Meet Narwhal, a 10-week-old rescue puppy with a special tail on his forehead that has catapulted him to internet fa… https://t.co/MzaZ3UDDnI",Sat Nov 16 07:31:05 +0000 2019,0.7184,0.261,0.739,0.0
+29,CNN,"Gunfire broke out at a high school football game in New Jersey on Friday night, sending terrified fans diving under… https://t.co/Xs4UbOzz2T",Sat Nov 16 07:21:25 +0000 2019,-0.7579,0.052,0.677,0.271
+30,CNN,"Automotive company VinFast's first electric scooter, Klara, could create an environmentally friendly option for Han… https://t.co/SRey4VGuwq",Sat Nov 16 07:16:09 +0000 2019,0.6486,0.275,0.725,0.0
+31,CNN,"Kateryna Handziuk, who died in 2018 following an acid attack, was brought up today because on April 25 — when Marie… https://t.co/puZ0fct3fE",Sat Nov 16 07:01:04 +0000 2019,-0.7717,0.0,0.739,0.261
+32,CNN,An astonishing week closes with a wild new window into President Trump's style | Analysis by CNN's @zbyronwolf… https://t.co/GnFOg32XBh,Sat Nov 16 06:46:07 +0000 2019,0.0,0.0,1.0,0.0
+33,CNN,"A blazing meteor lit up the night sky this week in St. Louis, Missouri, and was caught on video by excited resident… https://t.co/QexYZkGFr7",Sat Nov 16 06:31:09 +0000 2019,0.34,0.103,0.897,0.0
+34,CNN,"What is, ""We ❤️ you Alex!""
+
+""Jeopardy!"" host Alex Trebek choked up after a contestant used his Final Jeopardy answe… https://t.co/yLE5KhMOMO",Sat Nov 16 06:16:08 +0000 2019,-0.7772,0.0,0.737,0.263
+35,CNN,"Nike's new shoe was not created for athletes such as basketball players or tennis players, but for a different crow… https://t.co/CVEvtWJndJ",Sat Nov 16 06:01:02 +0000 2019,-0.0951,0.0,0.933,0.067
+36,CNN,More than 13% of Americans — about 34 million people — say a friend or family member recently passed away in the la… https://t.co/iQYFCEHJ2y,Sat Nov 16 05:51:06 +0000 2019,0.4939,0.138,0.862,0.0
+37,CNN,"Veneto regional council, which is located on Venice's Grand Canal, was flooded for the first time in its history on… https://t.co/Px3nOdkttA",Sat Nov 16 05:42:29 +0000 2019,0.4588,0.13,0.87,0.0
+38,CNN,Sully the service dog wagged into stardom when a picture of him next to former President George H.W. Bush's casket… https://t.co/ndU371nwLY,Sat Nov 16 05:31:03 +0000 2019,0.0,0.0,1.0,0.0
+39,CNN,"Exclusive: After private White House meeting, Giuliani associate Lev Parnas said he was on a 'secret mission' for T… https://t.co/BxMSZRtEDA",Sat Nov 16 05:16:04 +0000 2019,0.128,0.077,0.923,0.0
+40,BBC News (World),Climate change: Irish Youth Assembly demands action https://t.co/bH1qUt6vSF,Sat Nov 16 08:00:30 +0000 2019,0.0,0.0,1.0,0.0
+41,BBC News (World),Impeachment inquiry: Trump 'asked for probe in Ukraine with envoy' https://t.co/bwfxkx4msh,Sat Nov 16 05:48:38 +0000 2019,0.0,0.0,1.0,0.0
+42,BBC News (World),Sri Lanka votes for president in shadow of Easter Sunday attack https://t.co/PYBaT7d9We,Sat Nov 16 01:35:56 +0000 2019,-0.4767,0.0,0.78,0.22
+43,BBC News (World),In pictures: Havana celebrates 500 years of foundation https://t.co/iKH4TGwDkm,Sat Nov 16 01:29:08 +0000 2019,0.5719,0.316,0.684,0.0
+44,BBC News (World),Rodney Reed: Texas court halts execution in high-profile case https://t.co/r1Ee7neyUV,Sat Nov 16 01:03:34 +0000 2019,0.0,0.0,1.0,0.0
+45,BBC News (World),Gilets Jaunes: Anger of yellow vests still grips France a year on https://t.co/Bm4n1ypp19,Sat Nov 16 00:17:59 +0000 2019,-0.5719,0.0,0.748,0.252
+46,BBC News (World),Velvet Revolution: Prague's ghosts of communism https://t.co/4TXIRm3evX,Sat Nov 16 00:13:25 +0000 2019,0.0,0.0,1.0,0.0
+47,BBC News (World),Israel-Gaza: Israel vows to investigate civilian death claims https://t.co/0FxNA1hahz,Fri Nov 15 23:34:15 +0000 2019,-0.5994,0.0,0.672,0.328
+48,BBC News (World),Bolivia crisis: Former President Evo Morales dismisses charges threat https://t.co/pP9ykVsEIN,Fri Nov 15 23:11:53 +0000 2019,-0.8625,0.0,0.422,0.578
+49,BBC News (World),Iraq protests: Top Shia cleric gives support to protests https://t.co/oD8bZ0nYa5,Fri Nov 15 22:58:13 +0000 2019,0.1779,0.315,0.42,0.266
+50,BBC News (World),Inventor of the famed 'Sourtoe Cocktail' has died https://t.co/4u4y2REJlV,Fri Nov 15 22:53:03 +0000 2019,-0.5574,0.0,0.69,0.31
+51,BBC News (World),"RT @BBCNewsnight: ""I have no recollection of ever meeting this lady.""
+
+The Duke of York has spoken for the first time about his links to Je…",Fri Nov 15 22:02:36 +0000 2019,-0.296,0.0,0.919,0.081
+52,BBC News (World),"RT @BBCNewsnight: ""It was not something that was becoming of a member of the Royal family... I let the side down.""
+
+Prince Andrew speaks ex…",Fri Nov 15 22:02:32 +0000 2019,0.0,0.0,1.0,0.0
+53,BBC News (World),"RT @BBCBreaking: Prince Andrew tells BBC he ""let the side down"" by staying at home of convicted US sex offender Jeffrey Epstein https://t.c…",Fri Nov 15 22:01:38 +0000 2019,-0.3612,0.0,0.898,0.102
+54,BBC News (World),How Irish hurling came to the US https://t.co/jftjn2A1LQ,Fri Nov 15 21:17:36 +0000 2019,0.0,0.0,1.0,0.0
+55,BBC News (World),'One in a million' three antler deer spotted in US https://t.co/c0w639VcBP,Fri Nov 15 20:45:51 +0000 2019,0.0,0.0,1.0,0.0
+56,BBC News (World),"RT @awzurcher: Today's public impeachment hearing almost over. The committee members now will head to a closed-door meeting, where they wil…",Fri Nov 15 20:28:46 +0000 2019,0.0,0.0,1.0,0.0
+57,BBC News (World),How a Trump tweet shook impeachment hearing https://t.co/WhcfvrS2dq,Fri Nov 15 20:20:24 +0000 2019,-0.1027,0.0,0.811,0.189
+58,BBC News (World),@rituprasad92 @LauraTrevelyan @csbuckler Republicans now get their turn to question former Ukraine ambassador Marie… https://t.co/ZgtKBCVDPY,Fri Nov 15 17:33:47 +0000 2019,0.0,0.0,1.0,0.0
+59,BBC News (World),"RT @BBCBreaking: Roger Stone, former adviser to President Donald Trump, convicted on charges stemming from Russia inquiry https://t.co/h55R…",Fri Nov 15 16:57:42 +0000 2019,-0.2732,0.0,0.89,0.11
+60,CBS News,"A juvenile and an adult male are ""seriously injured"" after being shot at a high school football game in New Jersey… https://t.co/q6bcHzsE8i",Sat Nov 16 04:02:41 +0000 2019,-0.5267,0.0,0.804,0.196
+61,CBS News,"This holiday season, shoppers can keep the change and donate to the Salvation Army with Google Pay and Apple Pay… https://t.co/RHsVYHpsGo",Sat Nov 16 03:39:31 +0000 2019,0.3182,0.117,0.823,0.061
+62,CBS News,"Elite Marine unit practices day and night to ensure fellow Marines get the ""flawless"" funeral procession they deser… https://t.co/iu0nty4VyG",Sat Nov 16 03:19:37 +0000 2019,0.0258,0.118,0.769,0.113
+63,CBS News,"Trump's former campaign adviser, Roger Stone, has been found guilty of lying to Congress, witness tampering and obs… https://t.co/VXTTY4hAHG",Sat Nov 16 02:59:32 +0000 2019,-0.7351,0.0,0.733,0.267
+64,CBS News,Boeing and SpaceX face major technical challenges that threaten to delay initial flights of U.S. commercial astrona… https://t.co/cdKjsbDmyq,Sat Nov 16 02:39:39 +0000 2019,-0.5574,0.061,0.708,0.231
+65,CBS News,"While farmers anxiously await a formal trade deal, makers of farming equipment are trimming their workforces amid s… https://t.co/dFvGdfhGCk",Sat Nov 16 02:19:44 +0000 2019,-0.128,0.073,0.829,0.098
+66,CBS News,Cleveland Brown star Myles Garrett has been suspended indefinitely by the NFL for ripping off Pittsburgh Steelers q… https://t.co/lNb7Yuq3nO,Sat Nov 16 01:59:52 +0000 2019,-0.4767,0.0,0.853,0.147
+67,CBS News,"After Thursday's school shooting in Santa Clarita, California, Washington faces renewed questions about national pr… https://t.co/DHAbkoT9Sn",Sat Nov 16 01:39:41 +0000 2019,0.0,0.0,1.0,0.0
+68,CBS News,"Nancy Pelosi says  President Trump's ongoing attacks on witnesses in the impeachment probe are ""very significant""… https://t.co/5254OVdItd",Sat Nov 16 01:19:52 +0000 2019,-0.4404,0.0,0.847,0.153
+69,CBS News,BREAKING: The shooter who killed two classmates at Saugus High School in California on Thursday has died from his i… https://t.co/1fqXJFcuE8,Sat Nov 16 01:02:57 +0000 2019,-0.8442,0.0,0.701,0.299
+70,CBS News,8 striking moments in the 2nd day of public impeachment hearings https://t.co/ccvtjQCQor https://t.co/DcdTivh2yU,Sat Nov 16 00:39:33 +0000 2019,0.0,0.0,1.0,0.0
+71,CBS News,Black borrowers are twice as likely to default on their student loans than white borrowers https://t.co/uA8IENHEw1 https://t.co/nN8Pfzv50j,Sat Nov 16 00:19:32 +0000 2019,0.0,0.0,1.0,0.0
+72,CBS News,"RT @CBSEveningNews: PROFILES IN SERVICE: Few Marines are tougher, and none  stronger, than the elite unit that shoulders the burden of Amer…",Sat Nov 16 00:06:39 +0000 2019,-0.5242,0.066,0.737,0.197
+73,CBS News,"RT @CBSEveningNews: In an exclusive @BBCNewsnight interview, Britain's Prince Andrew denies accusations of having underage sex with one of…",Sat Nov 16 00:06:36 +0000 2019,-0.5574,0.066,0.708,0.226
+74,CBS News,"RT @CBSEveningNews: Roger Stone, a longtime ally of Pres. Trump, was found guilty on 7 charges Friday; prosecutors said Stone lied to prote…",Sat Nov 16 00:06:31 +0000 2019,-0.7579,0.0,0.706,0.294
+75,CBS News,"RT @CBSEveningNews: NEW: @margbrennan: ""Why do you think [Pres. Trump] was tweeting about [Marie Yovanovitch]?""
+@SpeakerPelosi: ""He made a…",Sat Nov 16 00:06:29 +0000 2019,0.0,0.0,1.0,0.0
+76,CBS News,"RT @CBSEveningNews: NEW: Source tells @margbrennan that David Holmes' testimony presents not only new problems for @POTUS, but for Amb. Gor…",Sat Nov 16 00:06:27 +0000 2019,0.1603,0.075,0.925,0.0
+77,CBS News,RT @CBSEveningNews: MORE: Pres. Trump later dismissed Democrats’ accusations of witness tampering after tweeting during former Amb. Marie Y…,Sat Nov 16 00:06:25 +0000 2019,-0.3182,0.0,0.887,0.113
+78,CBS News,"RT @CBSEveningNews: Marie Yovanovitch, a 33-year veteran of foreign service, testified she was the victim of a “smear campaign” waged by “f…",Sat Nov 16 00:06:22 +0000 2019,-0.2732,0.0,0.9,0.1
+79,CBS News,"""This is not a time to undercut our diplomats.""
+
+Marie Yovanovitch, the former U.S. ambassador to Ukraine, testifie… https://t.co/NqCMrM5blz",Sat Nov 16 00:00:42 +0000 2019,0.0,0.0,1.0,0.0
+80,The New York Times,Astronomers believe that a supermassive black hole in the middle of the Milky Way has thrown a star out of the cent… https://t.co/EWz06egDQl,Sat Nov 16 09:00:54 +0000 2019,0.0,0.0,1.0,0.0
+81,The New York Times,"RT @AKurmanaev: Evo’s fall has opened up Bolivia’s old ethnic wounds, which both extremes are now exploiting in their struggle for power. O…",Sat Nov 16 08:30:09 +0000 2019,-0.6369,0.0,0.802,0.198
+82,The New York Times,"RT @nytimesworld: A new book explains why there's an entire subculture of Bollywood fans in Peru, all indigenous Peruvians who don’t speak…",Sat Nov 16 08:00:12 +0000 2019,0.0,0.0,1.0,0.0
+83,The New York Times,"RT @NYTSports: “As soon as you put the jersey on, nothing underneath it matters,” said Alexander LeFebvre, 25, the goalie for Team Trans. “…",Sat Nov 16 07:30:10 +0000 2019,0.0,0.0,1.0,0.0
+84,The New York Times,China’s internet is flowering. And one of its anchors: WeChat. “To spend any amount of time in China today is to un… https://t.co/KeuWkd2W52,Sat Nov 16 07:00:06 +0000 2019,0.0,0.0,1.0,0.0
+85,The New York Times,RT @eringriffith: I’ve wanted to write about ⁦@DipseaStories⁩ ever since I first heard of it. Here’s what it’s like to run an erotic podcas…,Sat Nov 16 06:30:07 +0000 2019,0.3612,0.102,0.898,0.0
+86,The New York Times,"2 algal species share important genes with all modern land plants, a new analysis finds https://t.co/t3jfX3BjGc",Sat Nov 16 06:00:09 +0000 2019,0.4588,0.25,0.75,0.0
+87,The New York Times,The Supreme Court agreed to decide whether Google should have to pay Oracle billions of dollars in a long-running c… https://t.co/sGqutnKy1b,Sat Nov 16 05:40:06 +0000 2019,0.6486,0.237,0.705,0.058
+88,The New York Times,"RT @gettinviggy: In a rare public moment of contrition for a member of Britain’s royal family, Prince Andrew said this week that it was wro…",Sat Nov 16 05:20:02 +0000 2019,0.0,0.0,1.0,0.0
+89,The New York Times,Keith Haring's 85-foot mural — painted up the stairs of a youth center and brought down decades later — has sold to… https://t.co/L1GkIgVQdv,Sat Nov 16 05:10:04 +0000 2019,0.0,0.0,1.0,0.0
+90,The New York Times,"RT @nytimesarts: James Holzhauer beat Emma Boettcher to come out on top in their rematch on the ""Jeopardy!"" stage. https://t.co/8d0mvebxLN",Sat Nov 16 04:50:01 +0000 2019,0.2714,0.099,0.901,0.0
+91,The New York Times,A grizzly’s body can slow down for months without damage. Researchers wonder if the ability can be harnessed to aid… https://t.co/vTjjnXycKQ,Sat Nov 16 04:40:05 +0000 2019,0.6031,0.215,0.785,0.0
+92,The New York Times,"RT @nytpolitics: Conservative Republicans tend to be more passionate about immigration issues, but Democratic organizers see an opportunity…",Sat Nov 16 04:20:04 +0000 2019,0.3284,0.121,0.879,0.0
+93,The New York Times,"A shooting during a high school football game on Friday night in New Jersey seriously injured 2 people, the police… https://t.co/XJA0wLuj8J",Sat Nov 16 04:10:07 +0000 2019,-0.5267,0.0,0.784,0.216
+94,The New York Times,"Here is what we know so far about the shooting in Santa Clarita, California
+https://t.co/15TCSicEo0",Sat Nov 16 04:00:03 +0000 2019,0.0,0.0,1.0,0.0
+95,The New York Times,"9 new books recommended by critics and editors at The New York Times
+https://t.co/LI7DlO53Ck",Sat Nov 16 03:40:01 +0000 2019,-0.1027,0.12,0.733,0.147
+96,The New York Times,"RT @johnismay: Three judges in Indianapolis tried to visit a strip club, but it had just closed -- at 3 a.m. So they went to the White Cast…",Sat Nov 16 03:20:05 +0000 2019,0.0,0.0,1.0,0.0
+97,The New York Times,"Our reporter @andylocal found work on an Amazon website — and made 97 cents an hour. Go inside the weird, wild, low… https://t.co/uqwiRJMR5s",Sat Nov 16 03:00:17 +0000 2019,0.0,0.073,0.855,0.073
+98,The New York Times,North Carolina Democrats asked the same 3-judge panel of the state Superior Court to reject a new congressional map… https://t.co/st2marWLuY,Sat Nov 16 02:40:05 +0000 2019,0.2023,0.151,0.733,0.116
+99,The New York Times,RT @David_Philipps: Trump just cleared three members of the military in war crimes cases. The moves show he intends to use his power as the…,Sat Nov 16 02:20:02 +0000 2019,-0.5423,0.049,0.813,0.138
+100,Fox News,BREAKING: Federal appeals court rules against Trump administration on DACA https://t.co/KHnrNvEKAM,Thu Nov 08 19:18:44 +0000 2018,0.0,0.0,1.0,0.0
+101,Fox News,"Breaking News: Grand jury indicts captain of Missouri duck boat that sank in severe weather, killing 17 people https://t.co/ffOOgzRwdo",Thu Nov 08 17:02:25 +0000 2018,-0.6124,0.115,0.615,0.269
+102,Fox News,"JUST IN: Police identify gunman who opened fire inside California bar, killing 12 https://t.co/PvITYr54AX",Thu Nov 08 15:14:45 +0000 2018,-0.7783,0.0,0.638,0.362
+103,Fox News,JUST IN: Supreme Court Justice Ruth Bader Ginsburg fractures 3 ribs in fall https://t.co/9UM9hKTz4m,Thu Nov 08 14:22:51 +0000 2018,0.7906,0.389,0.611,0.0
+104,Fox News,"Sgt. Ron Helus was fatally shot when he responded to the mass shooting on Nov. 7 at a bar in Thousand Oaks, Califor… https://t.co/vOH3OWPN5S",Thu Nov 08 13:43:25 +0000 2018,-0.6369,0.0,0.833,0.167
+105,Fox News,Tom Homan: “It’s a tragedy each and every time.” https://t.co/dMV68Hfdz0 https://t.co/hrq51VJg7x,Thu Nov 08 13:35:03 +0000 2018,-0.6597,0.0,0.672,0.328
+106,Fox News,"People walk away from the scene in Thousand Oaks, Calif. where a gunman opened fire Wednesday.… https://t.co/O3Oo2iLL8O",Thu Nov 08 13:22:27 +0000 2018,-0.34,0.0,0.862,0.138
+107,Fox News,Teylor Whittler describes what she witnessed at California bar shooting https://t.co/dMV68Hfdz0 https://t.co/YznTZgQoYY,Thu Nov 08 12:56:20 +0000 2018,0.0,0.0,1.0,0.0
+108,Fox News,"An FBI agent talks to a potential witness as they stand near the scene in Thousand Oaks, Calif. where a gunman open… https://t.co/7QOmXNTYM0",Thu Nov 08 12:37:05 +0000 2018,0.0,0.0,1.0,0.0
+109,Fox News,Ventura County Fire Department Captain Stan Ziegler: “Hundreds of first responders responded initially to the scene… https://t.co/o4gArhmy4e,Thu Nov 08 12:25:14 +0000 2018,-0.34,0.0,0.87,0.13
+110,Fox News,"People comfort each other as they stand near the scene in Thousand Oaks, Calif. where a gunman opened fire during a… https://t.co/wPI4XSpirC",Thu Nov 08 12:06:14 +0000 2018,0.0258,0.105,0.795,0.1
+111,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/dMV68Hfdz0 https://t.co/WvjarPpwPV",Thu Nov 08 11:54:22 +0000 2018,-0.6486,0.0,0.736,0.264
+112,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/GqI77wMuYZ",Thu Nov 08 11:38:17 +0000 2018,-0.6486,0.0,0.719,0.281
+113,Fox News,"Sheriff's deputies speak to potential witnesses as they stand near the scene in Thousand Oaks, Calif., where a gunm… https://t.co/jPE8k9oQHr",Thu Nov 08 11:32:26 +0000 2018,0.0,0.0,1.0,0.0
+114,Fox News,13 dead in country music bar including gunman https://t.co/PvITYr54AX https://t.co/UURBIatqte,Thu Nov 08 11:26:46 +0000 2018,-0.6486,0.0,0.677,0.323
+115,Fox News,"12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/PvITYr54AX https://t.co/o8Nf8WuJcZ",Thu Nov 08 11:18:08 +0000 2018,-0.6486,0.0,0.719,0.281
+116,Fox News,"Breaking News: At least 12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/u6sVxdzHq5",Thu Nov 08 11:13:32 +0000 2018,-0.6486,0.0,0.765,0.235
+117,Fox News,.@CarleyShimkus is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/cQ9uxkjUIK,Thu Nov 08 11:12:14 +0000 2018,0.0,0.0,1.0,0.0
+118,Fox News,"Authorities deliver an update on the shooting in Thousand Oaks, California. (Courtesy: KABC) https://t.co/BtGxxIfNx5",Thu Nov 08 10:53:33 +0000 2018,0.0,0.0,1.0,0.0
+119,Fox News,Pastor Dimas Salaberrios on California shooting: “My immediate thoughts go out to the families. Because what’s happ… https://t.co/iowf5VOL2l,Thu Nov 08 10:36:12 +0000 2018,0.0,0.0,1.0,0.0
+120,CNN,"China has completed its first public test of a Mars lander, keeping the country on track for an unmanned exploratio… https://t.co/dQUNt5VmwE",Sat Nov 16 09:16:04 +0000 2019,0.0,0.0,1.0,0.0
+121,CNN,A child prodigy from Belgium is on course to gain a bachelor's degree at the tender age of nine. He plans to embark… https://t.co/wTSpw6Gwaq,Sat Nov 16 09:01:04 +0000 2019,0.5267,0.139,0.861,0.0
+122,CNN,"Here's what it's like to fly on the world's longest passenger flight, from London to Sydney in 19 hours and 19 minu… https://t.co/hwZzMDqS7o",Sat Nov 16 08:46:08 +0000 2019,0.3612,0.102,0.898,0.0
+123,CNN,"Meet the gaming world's first transgender hero. ""Tell Me Why"" by Xbox Game Studios is the first video game by a maj… https://t.co/uRUipI2wD1",Sat Nov 16 08:31:03 +0000 2019,0.5574,0.146,0.854,0.0
+124,CNN,"You can get paid $1,000 to binge watch 24 Hallmark Christmas movies in 12 days https://t.co/RloLTfelx3 https://t.co/469SbctMKo",Sat Nov 16 08:16:05 +0000 2019,0.0,0.0,1.0,0.0
+125,CNN,Pope Francis said some of the things he's heard targeting Jews and the LGBTQ community remind him of the days of Ad… https://t.co/3bV1mIRFyJ,Sat Nov 16 08:01:07 +0000 2019,0.0,0.0,1.0,0.0
+126,CNN,This is the world's largest Starbucks https://t.co/fZqY1X8b4H https://t.co/GPCLleq8qY,Sat Nov 16 07:46:06 +0000 2019,0.0,0.0,1.0,0.0
+127,CNN,"Whether or not you can read and write could be a factor in your ability to stave off dementia as you grow older, ac… https://t.co/t4vCRv4udb",Sat Nov 16 07:39:09 +0000 2019,0.3182,0.091,0.909,0.0
+128,CNN,"Meet Narwhal, a 10-week-old rescue puppy with a special tail on his forehead that has catapulted him to internet fa… https://t.co/MzaZ3UDDnI",Sat Nov 16 07:31:05 +0000 2019,0.7184,0.261,0.739,0.0
+129,CNN,"Gunfire broke out at a high school football game in New Jersey on Friday night, sending terrified fans diving under… https://t.co/Xs4UbOzz2T",Sat Nov 16 07:21:25 +0000 2019,-0.7579,0.052,0.677,0.271
+130,CNN,"Automotive company VinFast's first electric scooter, Klara, could create an environmentally friendly option for Han… https://t.co/SRey4VGuwq",Sat Nov 16 07:16:09 +0000 2019,0.6486,0.275,0.725,0.0
+131,CNN,"Kateryna Handziuk, who died in 2018 following an acid attack, was brought up today because on April 25 — when Marie… https://t.co/puZ0fct3fE",Sat Nov 16 07:01:04 +0000 2019,-0.7717,0.0,0.739,0.261
+132,CNN,An astonishing week closes with a wild new window into President Trump's style | Analysis by CNN's @zbyronwolf… https://t.co/GnFOg32XBh,Sat Nov 16 06:46:07 +0000 2019,0.0,0.0,1.0,0.0
+133,CNN,"A blazing meteor lit up the night sky this week in St. Louis, Missouri, and was caught on video by excited resident… https://t.co/QexYZkGFr7",Sat Nov 16 06:31:09 +0000 2019,0.34,0.103,0.897,0.0
+134,CNN,"What is, ""We ❤️ you Alex!""
+
+""Jeopardy!"" host Alex Trebek choked up after a contestant used his Final Jeopardy answe… https://t.co/yLE5KhMOMO",Sat Nov 16 06:16:08 +0000 2019,-0.7772,0.0,0.737,0.263
+135,CNN,"Nike's new shoe was not created for athletes such as basketball players or tennis players, but for a different crow… https://t.co/CVEvtWJndJ",Sat Nov 16 06:01:02 +0000 2019,-0.0951,0.0,0.933,0.067
+136,CNN,More than 13% of Americans — about 34 million people — say a friend or family member recently passed away in the la… https://t.co/iQYFCEHJ2y,Sat Nov 16 05:51:06 +0000 2019,0.4939,0.138,0.862,0.0
+137,CNN,"Veneto regional council, which is located on Venice's Grand Canal, was flooded for the first time in its history on… https://t.co/Px3nOdkttA",Sat Nov 16 05:42:29 +0000 2019,0.4588,0.13,0.87,0.0
+138,CNN,Sully the service dog wagged into stardom when a picture of him next to former President George H.W. Bush's casket… https://t.co/ndU371nwLY,Sat Nov 16 05:31:03 +0000 2019,0.0,0.0,1.0,0.0
+139,CNN,"Exclusive: After private White House meeting, Giuliani associate Lev Parnas said he was on a 'secret mission' for T… https://t.co/BxMSZRtEDA",Sat Nov 16 05:16:04 +0000 2019,0.128,0.077,0.923,0.0
+140,BBC News (World),Climate change: Irish Youth Assembly demands action https://t.co/bH1qUt6vSF,Sat Nov 16 08:00:30 +0000 2019,0.0,0.0,1.0,0.0
+141,BBC News (World),Impeachment inquiry: Trump 'asked for probe in Ukraine with envoy' https://t.co/bwfxkx4msh,Sat Nov 16 05:48:38 +0000 2019,0.0,0.0,1.0,0.0
+142,BBC News (World),Sri Lanka votes for president in shadow of Easter Sunday attack https://t.co/PYBaT7d9We,Sat Nov 16 01:35:56 +0000 2019,-0.4767,0.0,0.78,0.22
+143,BBC News (World),In pictures: Havana celebrates 500 years of foundation https://t.co/iKH4TGwDkm,Sat Nov 16 01:29:08 +0000 2019,0.5719,0.316,0.684,0.0
+144,BBC News (World),Rodney Reed: Texas court halts execution in high-profile case https://t.co/r1Ee7neyUV,Sat Nov 16 01:03:34 +0000 2019,0.0,0.0,1.0,0.0
+145,BBC News (World),Gilets Jaunes: Anger of yellow vests still grips France a year on https://t.co/Bm4n1ypp19,Sat Nov 16 00:17:59 +0000 2019,-0.5719,0.0,0.748,0.252
+146,BBC News (World),Velvet Revolution: Prague's ghosts of communism https://t.co/4TXIRm3evX,Sat Nov 16 00:13:25 +0000 2019,0.0,0.0,1.0,0.0
+147,BBC News (World),Israel-Gaza: Israel vows to investigate civilian death claims https://t.co/0FxNA1hahz,Fri Nov 15 23:34:15 +0000 2019,-0.5994,0.0,0.672,0.328
+148,BBC News (World),Bolivia crisis: Former President Evo Morales dismisses charges threat https://t.co/pP9ykVsEIN,Fri Nov 15 23:11:53 +0000 2019,-0.8625,0.0,0.422,0.578
+149,BBC News (World),Iraq protests: Top Shia cleric gives support to protests https://t.co/oD8bZ0nYa5,Fri Nov 15 22:58:13 +0000 2019,0.1779,0.315,0.42,0.266
+150,BBC News (World),Inventor of the famed 'Sourtoe Cocktail' has died https://t.co/4u4y2REJlV,Fri Nov 15 22:53:03 +0000 2019,-0.5574,0.0,0.69,0.31
+151,BBC News (World),"RT @BBCNewsnight: ""I have no recollection of ever meeting this lady.""
+
+The Duke of York has spoken for the first time about his links to Je…",Fri Nov 15 22:02:36 +0000 2019,-0.296,0.0,0.919,0.081
+152,BBC News (World),"RT @BBCNewsnight: ""It was not something that was becoming of a member of the Royal family... I let the side down.""
+
+Prince Andrew speaks ex…",Fri Nov 15 22:02:32 +0000 2019,0.0,0.0,1.0,0.0
+153,BBC News (World),"RT @BBCBreaking: Prince Andrew tells BBC he ""let the side down"" by staying at home of convicted US sex offender Jeffrey Epstein https://t.c…",Fri Nov 15 22:01:38 +0000 2019,-0.3612,0.0,0.898,0.102
+154,BBC News (World),How Irish hurling came to the US https://t.co/jftjn2A1LQ,Fri Nov 15 21:17:36 +0000 2019,0.0,0.0,1.0,0.0
+155,BBC News (World),'One in a million' three antler deer spotted in US https://t.co/c0w639VcBP,Fri Nov 15 20:45:51 +0000 2019,0.0,0.0,1.0,0.0
+156,BBC News (World),"RT @awzurcher: Today's public impeachment hearing almost over. The committee members now will head to a closed-door meeting, where they wil…",Fri Nov 15 20:28:46 +0000 2019,0.0,0.0,1.0,0.0
+157,BBC News (World),How a Trump tweet shook impeachment hearing https://t.co/WhcfvrS2dq,Fri Nov 15 20:20:24 +0000 2019,-0.1027,0.0,0.811,0.189
+158,BBC News (World),@rituprasad92 @LauraTrevelyan @csbuckler Republicans now get their turn to question former Ukraine ambassador Marie… https://t.co/ZgtKBCVDPY,Fri Nov 15 17:33:47 +0000 2019,0.0,0.0,1.0,0.0
+159,BBC News (World),"RT @BBCBreaking: Roger Stone, former adviser to President Donald Trump, convicted on charges stemming from Russia inquiry https://t.co/h55R…",Fri Nov 15 16:57:42 +0000 2019,-0.2732,0.0,0.89,0.11
+160,CBS News,"A juvenile and an adult male are ""seriously injured"" after being shot at a high school football game in New Jersey… https://t.co/q6bcHzsE8i",Sat Nov 16 04:02:41 +0000 2019,-0.5267,0.0,0.804,0.196
+161,CBS News,"This holiday season, shoppers can keep the change and donate to the Salvation Army with Google Pay and Apple Pay… https://t.co/RHsVYHpsGo",Sat Nov 16 03:39:31 +0000 2019,0.3182,0.117,0.823,0.061
+162,CBS News,"Elite Marine unit practices day and night to ensure fellow Marines get the ""flawless"" funeral procession they deser… https://t.co/iu0nty4VyG",Sat Nov 16 03:19:37 +0000 2019,0.0258,0.118,0.769,0.113
+163,CBS News,"Trump's former campaign adviser, Roger Stone, has been found guilty of lying to Congress, witness tampering and obs… https://t.co/VXTTY4hAHG",Sat Nov 16 02:59:32 +0000 2019,-0.7351,0.0,0.733,0.267
+164,CBS News,Boeing and SpaceX face major technical challenges that threaten to delay initial flights of U.S. commercial astrona… https://t.co/cdKjsbDmyq,Sat Nov 16 02:39:39 +0000 2019,-0.5574,0.061,0.708,0.231
+165,CBS News,"While farmers anxiously await a formal trade deal, makers of farming equipment are trimming their workforces amid s… https://t.co/dFvGdfhGCk",Sat Nov 16 02:19:44 +0000 2019,-0.128,0.073,0.829,0.098
+166,CBS News,Cleveland Brown star Myles Garrett has been suspended indefinitely by the NFL for ripping off Pittsburgh Steelers q… https://t.co/lNb7Yuq3nO,Sat Nov 16 01:59:52 +0000 2019,-0.4767,0.0,0.853,0.147
+167,CBS News,"After Thursday's school shooting in Santa Clarita, California, Washington faces renewed questions about national pr… https://t.co/DHAbkoT9Sn",Sat Nov 16 01:39:41 +0000 2019,0.0,0.0,1.0,0.0
+168,CBS News,"Nancy Pelosi says  President Trump's ongoing attacks on witnesses in the impeachment probe are ""very significant""… https://t.co/5254OVdItd",Sat Nov 16 01:19:52 +0000 2019,-0.4404,0.0,0.847,0.153
+169,CBS News,BREAKING: The shooter who killed two classmates at Saugus High School in California on Thursday has died from his i… https://t.co/1fqXJFcuE8,Sat Nov 16 01:02:57 +0000 2019,-0.8442,0.0,0.701,0.299
+170,CBS News,8 striking moments in the 2nd day of public impeachment hearings https://t.co/ccvtjQCQor https://t.co/DcdTivh2yU,Sat Nov 16 00:39:33 +0000 2019,0.0,0.0,1.0,0.0
+171,CBS News,Black borrowers are twice as likely to default on their student loans than white borrowers https://t.co/uA8IENHEw1 https://t.co/nN8Pfzv50j,Sat Nov 16 00:19:32 +0000 2019,0.0,0.0,1.0,0.0
+172,CBS News,"RT @CBSEveningNews: PROFILES IN SERVICE: Few Marines are tougher, and none  stronger, than the elite unit that shoulders the burden of Amer…",Sat Nov 16 00:06:39 +0000 2019,-0.5242,0.066,0.737,0.197
+173,CBS News,"RT @CBSEveningNews: In an exclusive @BBCNewsnight interview, Britain's Prince Andrew denies accusations of having underage sex with one of…",Sat Nov 16 00:06:36 +0000 2019,-0.5574,0.066,0.708,0.226
+174,CBS News,"RT @CBSEveningNews: Roger Stone, a longtime ally of Pres. Trump, was found guilty on 7 charges Friday; prosecutors said Stone lied to prote…",Sat Nov 16 00:06:31 +0000 2019,-0.7579,0.0,0.706,0.294
+175,CBS News,"RT @CBSEveningNews: NEW: @margbrennan: ""Why do you think [Pres. Trump] was tweeting about [Marie Yovanovitch]?""
+@SpeakerPelosi: ""He made a…",Sat Nov 16 00:06:29 +0000 2019,0.0,0.0,1.0,0.0
+176,CBS News,"RT @CBSEveningNews: NEW: Source tells @margbrennan that David Holmes' testimony presents not only new problems for @POTUS, but for Amb. Gor…",Sat Nov 16 00:06:27 +0000 2019,0.1603,0.075,0.925,0.0
+177,CBS News,RT @CBSEveningNews: MORE: Pres. Trump later dismissed Democrats’ accusations of witness tampering after tweeting during former Amb. Marie Y…,Sat Nov 16 00:06:25 +0000 2019,-0.3182,0.0,0.887,0.113
+178,CBS News,"RT @CBSEveningNews: Marie Yovanovitch, a 33-year veteran of foreign service, testified she was the victim of a “smear campaign” waged by “f…",Sat Nov 16 00:06:22 +0000 2019,-0.2732,0.0,0.9,0.1
+179,CBS News,"""This is not a time to undercut our diplomats.""
+
+Marie Yovanovitch, the former U.S. ambassador to Ukraine, testifie… https://t.co/NqCMrM5blz",Sat Nov 16 00:00:42 +0000 2019,0.0,0.0,1.0,0.0
+180,The New York Times,Astronomers believe that a supermassive black hole in the middle of the Milky Way has thrown a star out of the cent… https://t.co/EWz06egDQl,Sat Nov 16 09:00:54 +0000 2019,0.0,0.0,1.0,0.0
+181,The New York Times,"RT @AKurmanaev: Evo’s fall has opened up Bolivia’s old ethnic wounds, which both extremes are now exploiting in their struggle for power. O…",Sat Nov 16 08:30:09 +0000 2019,-0.6369,0.0,0.802,0.198
+182,The New York Times,"RT @nytimesworld: A new book explains why there's an entire subculture of Bollywood fans in Peru, all indigenous Peruvians who don’t speak…",Sat Nov 16 08:00:12 +0000 2019,0.0,0.0,1.0,0.0
+183,The New York Times,"RT @NYTSports: “As soon as you put the jersey on, nothing underneath it matters,” said Alexander LeFebvre, 25, the goalie for Team Trans. “…",Sat Nov 16 07:30:10 +0000 2019,0.0,0.0,1.0,0.0
+184,The New York Times,China’s internet is flowering. And one of its anchors: WeChat. “To spend any amount of time in China today is to un… https://t.co/KeuWkd2W52,Sat Nov 16 07:00:06 +0000 2019,0.0,0.0,1.0,0.0
+185,The New York Times,RT @eringriffith: I’ve wanted to write about ⁦@DipseaStories⁩ ever since I first heard of it. Here’s what it’s like to run an erotic podcas…,Sat Nov 16 06:30:07 +0000 2019,0.3612,0.102,0.898,0.0
+186,The New York Times,"2 algal species share important genes with all modern land plants, a new analysis finds https://t.co/t3jfX3BjGc",Sat Nov 16 06:00:09 +0000 2019,0.4588,0.25,0.75,0.0
+187,The New York Times,The Supreme Court agreed to decide whether Google should have to pay Oracle billions of dollars in a long-running c… https://t.co/sGqutnKy1b,Sat Nov 16 05:40:06 +0000 2019,0.6486,0.237,0.705,0.058
+188,The New York Times,"RT @gettinviggy: In a rare public moment of contrition for a member of Britain’s royal family, Prince Andrew said this week that it was wro…",Sat Nov 16 05:20:02 +0000 2019,0.0,0.0,1.0,0.0
+189,The New York Times,Keith Haring's 85-foot mural — painted up the stairs of a youth center and brought down decades later — has sold to… https://t.co/L1GkIgVQdv,Sat Nov 16 05:10:04 +0000 2019,0.0,0.0,1.0,0.0
+190,The New York Times,"RT @nytimesarts: James Holzhauer beat Emma Boettcher to come out on top in their rematch on the ""Jeopardy!"" stage. https://t.co/8d0mvebxLN",Sat Nov 16 04:50:01 +0000 2019,0.2714,0.099,0.901,0.0
+191,The New York Times,A grizzly’s body can slow down for months without damage. Researchers wonder if the ability can be harnessed to aid… https://t.co/vTjjnXycKQ,Sat Nov 16 04:40:05 +0000 2019,0.6031,0.215,0.785,0.0
+192,The New York Times,"RT @nytpolitics: Conservative Republicans tend to be more passionate about immigration issues, but Democratic organizers see an opportunity…",Sat Nov 16 04:20:04 +0000 2019,0.3284,0.121,0.879,0.0
+193,The New York Times,"A shooting during a high school football game on Friday night in New Jersey seriously injured 2 people, the police… https://t.co/XJA0wLuj8J",Sat Nov 16 04:10:07 +0000 2019,-0.5267,0.0,0.784,0.216
+194,The New York Times,"Here is what we know so far about the shooting in Santa Clarita, California
+https://t.co/15TCSicEo0",Sat Nov 16 04:00:03 +0000 2019,0.0,0.0,1.0,0.0
+195,The New York Times,"9 new books recommended by critics and editors at The New York Times
+https://t.co/LI7DlO53Ck",Sat Nov 16 03:40:01 +0000 2019,-0.1027,0.12,0.733,0.147
+196,The New York Times,"RT @johnismay: Three judges in Indianapolis tried to visit a strip club, but it had just closed -- at 3 a.m. So they went to the White Cast…",Sat Nov 16 03:20:05 +0000 2019,0.0,0.0,1.0,0.0
+197,The New York Times,"Our reporter @andylocal found work on an Amazon website — and made 97 cents an hour. Go inside the weird, wild, low… https://t.co/uqwiRJMR5s",Sat Nov 16 03:00:17 +0000 2019,0.0,0.073,0.855,0.073
+198,The New York Times,North Carolina Democrats asked the same 3-judge panel of the state Superior Court to reject a new congressional map… https://t.co/st2marWLuY,Sat Nov 16 02:40:05 +0000 2019,0.2023,0.151,0.733,0.116
+199,The New York Times,RT @David_Philipps: Trump just cleared three members of the military in war crimes cases. The moves show he intends to use his power as the…,Sat Nov 16 02:20:02 +0000 2019,-0.5423,0.049,0.813,0.138
+200,Fox News,"Las Vegas shooting survivors were inside Thousand Oaks bar, friends say https://t.co/nW9TLTON9n",Thu Nov 08 10:30:40 +0000 2018,0.4767,0.22,0.78,0.0
+201,Fox News,"UPDATE: At least 11 wounded in shooting at California bar, gunman dead, police say https://t.co/awRowfbeRy",Thu Nov 08 10:24:08 +0000 2018,-0.6486,0.0,0.765,0.235
+202,Fox News,Authorities confirm gunman is dead @FoxFriendsFirst https://t.co/PvITYr54AX https://t.co/a2EIH1EWmA,Thu Nov 08 10:16:43 +0000 2018,-0.6486,0.0,0.619,0.381
+203,Fox News,Ventura County Sheriff’s Office Captain Garo Kuredjian: “I don’t know what the condition of any of the victims are… https://t.co/96mT27WHZv,Thu Nov 08 10:10:46 +0000 2018,-0.3182,0.0,0.892,0.108
+204,Fox News,"At least 11 shot, including sheriff’s deputy — Jonathan Hunt has the latest from the scene of the California shooti… https://t.co/sLzLyMsrn5",Thu Nov 08 10:03:44 +0000 2018,0.0,0.0,1.0,0.0
+205,Fox News,Witnesses describe chaotic scene during Thousand Oaks shooting https://t.co/qE8RqKGjz3,Thu Nov 08 09:54:50 +0000 2018,-0.4939,0.0,0.714,0.286
+206,Fox News,UPDATE: At least 11 people hurt in California shooting @FoxFriendsFirst https://t.co/PvITYr54AX https://t.co/RGWIkaxF4f,Thu Nov 08 09:46:19 +0000 2018,-0.5267,0.0,0.764,0.236
+207,Fox News,"Daniel Hoffman on California shooting: “This still an active shooter scene, and the focus is on dealing with that a… https://t.co/PiwHhe5HuX",Thu Nov 08 09:40:57 +0000 2018,0.4019,0.119,0.881,0.0
+208,Fox News,"Former Las Vegas Metro Police Lt. Randy Sutton: “Those who respond to this show incredible bravery, because they ar… https://t.co/idcJJuVRMP",Thu Nov 08 09:31:36 +0000 2018,0.4939,0.144,0.856,0.0
+209,Fox News,"Authorities deliver a briefing on a shooting in Thousand Oaks, California. (Courtesy: KCBS) https://t.co/5VGZz3rDIL",Thu Nov 08 09:25:02 +0000 2018,0.0,0.0,1.0,0.0
+210,Fox News,"Mass shooting at California bar, @HeatherChilders &amp; @JackieibanezFNC have the latest @FoxFriendsFirst… https://t.co/8c8H5LUFCu",Thu Nov 08 09:18:00 +0000 2018,0.0,0.0,1.0,0.0
+211,Fox News,Tesla names Robyn Denholm as Chairman to replace Elon Musk (via @FoxBusiness) https://t.co/SKjBXxUdOD,Thu Nov 08 09:10:00 +0000 2018,0.0,0.0,1.0,0.0
+212,Fox News,@marcthiessen: “The president today made very clear that he wants to cut deals with the Democrats. And quite frankl… https://t.co/3eA2dn4vQh,Thu Nov 08 09:01:00 +0000 2018,0.2006,0.126,0.783,0.091
+213,Fox News,".@TuckerCarlson: ""While everyone else obsessed over dossiers and FISA warrants, Sessions worried about the mission… https://t.co/LSvnOqZMsq",Thu Nov 08 09:00:00 +0000 2018,-0.4404,0.0,0.782,0.218
+214,Fox News,"Wife's dying wish was for him to clean up bloody crime scene, suspect claims: reports https://t.co/7Wxd39jDEB",Thu Nov 08 08:51:00 +0000 2018,-0.4939,0.216,0.44,0.344
+215,Fox News,DEVELOPING: Massive police response after reports of shooting at California nightclub https://t.co/awRowfsPJ6,Thu Nov 08 08:41:00 +0000 2018,0.0,0.0,1.0,0.0
+216,Fox News,".@senatemajldr Mitch McConnell said Wednesday that Democrats and Republicans will have to address health care ""on a… https://t.co/XxmktKMZ7F",Thu Nov 08 08:31:00 +0000 2018,0.4939,0.158,0.842,0.0
+217,Fox News,"Joseph diGenova on who could replace AG Sessions: ""@ChrisChristie would have the full confidence of @POTUS, which i… https://t.co/lt485btkXG",Thu Nov 08 08:21:00 +0000 2018,0.5106,0.155,0.845,0.0
+218,Fox News,Dem @GavinNewsom's wild victory party in LA features controversial rapper @common https://t.co/V9SSpxOUH7,Thu Nov 08 08:06:00 +0000 2018,0.2263,0.186,0.69,0.124
+219,Fox News,".@jasoninthehouse: “Attorney General @jeffsessions is a patriot. He was a good Republican, and I applaud him for hi… https://t.co/MRia8l8dOM",Thu Nov 08 08:01:00 +0000 2018,0.7096,0.296,0.704,0.0
+220,CNN,"""When I think of the messages I cry."" These are the text messages one mom received from her daughter during the Sau… https://t.co/f4l4msOpWU",Sat Nov 16 05:01:04 +0000 2019,0.0,0.0,1.0,0.0
+221,CNN,"When this Tennessee woman was sworn in as a lawyer, the officiating judge held her 1-year-old son on his hip so the… https://t.co/l8RbgZAVl7",Sat Nov 16 04:57:06 +0000 2019,0.0,0.0,1.0,0.0
+222,CNN,"A watch by Swiss luxury brand Patek Philippe has sold for over $31 million, the highest price ever paid for a timep… https://t.co/hDESho1bbS",Sat Nov 16 04:48:48 +0000 2019,0.0,0.0,1.0,0.0
+223,CNN,"""Why would the President heedlessly insert himself into the Yovanovitch hearing? The best answer, it seems, is that… https://t.co/mqeZlyCELz",Sat Nov 16 04:46:05 +0000 2019,0.6369,0.189,0.811,0.0
+224,CNN,An Oklahoma judge has reduced a financial penalty Johnson &amp; Johnson must pay for its role in the opioid crisis from… https://t.co/p2zOGyiWxJ,Sat Nov 16 04:38:24 +0000 2019,-0.8176,0.0,0.679,0.321
+225,CNN,"You can get paid $1,000 to binge watch 24 Hallmark Christmas movies in 12 days https://t.co/RzwPswJC1r https://t.co/ZiGZEl2DWB",Sat Nov 16 04:37:57 +0000 2019,0.0,0.0,1.0,0.0
+226,CNN,This is the world's largest Starbucks https://t.co/8Tl2b8d31S https://t.co/nOCRd2O2Ex,Sat Nov 16 04:35:05 +0000 2019,0.0,0.0,1.0,0.0
+227,CNN,The public battle between Taylor Swift and music manager Scooter Braun continues to escalate https://t.co/E8aBfVWqcU,Sat Nov 16 04:31:01 +0000 2019,-0.2023,0.103,0.747,0.149
+228,CNN,This 9-year-old boy is about to graduate from college https://t.co/RVMs9zPzlN https://t.co/9mn5DOYdfe,Sat Nov 16 04:29:55 +0000 2019,0.0,0.0,1.0,0.0
+229,CNN,Drone video captured the moment a giant whale swam through a group of surfers off the Southern California coast… https://t.co/6T5rckspSr,Sat Nov 16 04:18:52 +0000 2019,0.0,0.0,1.0,0.0
+230,CNN,"Here's what it's like to fly on the world's longest passenger flight, from London to Sydney in 19 hours and 19 minu… https://t.co/XOJrBK41Wn",Sat Nov 16 04:16:42 +0000 2019,0.3612,0.102,0.898,0.0
+231,CNN,"James Holzhauer took home $250K as the winner of the ""Jeopardy!"" Tournament of Champions against Emma Boettcher, wh… https://t.co/pqr3qiYSrb",Sat Nov 16 04:16:04 +0000 2019,0.8172,0.306,0.694,0.0
+232,CNN,This family lives in a glass house — literally https://t.co/xOZNUarcNw https://t.co/u3Ba6rOw8b,Sat Nov 16 04:15:08 +0000 2019,0.0,0.0,1.0,0.0
+233,CNN,The Hong Kong protests began in June with one main objective — for the government to withdraw a controversial bill… https://t.co/dKUJpdeXAP,Sat Nov 16 04:01:08 +0000 2019,-0.4019,0.0,0.821,0.179
+234,CNN,".@ChrisCuomo: One week of public impeachment hearings yield one step forward, two steps backward, for President Tru… https://t.co/q7C0wdX0AK",Sat Nov 16 03:58:29 +0000 2019,0.0,0.0,1.0,0.0
+235,CNN,"Choir teacher Kaitlin Holt used a gunshot kit to tend to a wounded girl, corralled students into her office and blo… https://t.co/wwrNvcI3WB",Sat Nov 16 03:53:48 +0000 2019,0.0,0.0,1.0,0.0
+236,CNN,"""Having established a reputation for shadiness, it became difficult for [Roger] Stone to convince a jury that he wa… https://t.co/ZvyuXhG91a",Sat Nov 16 03:46:02 +0000 2019,-0.128,0.098,0.78,0.122
+237,CNN,At least two people were transported to the hospital Friday evening after a shooting took place during a high schoo… https://t.co/heEmWOeGP0,Sat Nov 16 03:43:42 +0000 2019,0.0,0.0,1.0,0.0
+238,CNN,.@donlemon: Here's the message for members of team Trump: The only thing to do now is to tell the truth. #DonsTake… https://t.co/1gqQHQz9n7,Sat Nov 16 03:36:38 +0000 2019,0.3182,0.099,0.901,0.0
+239,CNN,A private group backing President Trump's border wall has kicked off a new project on the US-Mexico border in an at… https://t.co/fluRNUNEQr,Sat Nov 16 03:31:03 +0000 2019,0.0258,0.055,0.945,0.0
+240,BBC News (World),President Trump tweets furious attack on envoy during #ImpeachmentHearing https://t.co/KRUbUHBcHV,Fri Nov 15 16:44:49 +0000 2019,-0.7783,0.0,0.541,0.459
+241,BBC News (World),"Apple removes vaping apps from app store 
+
+https://t.co/Mt8aza6zDz",Fri Nov 15 16:19:00 +0000 2019,0.0,0.0,1.0,0.0
+242,BBC News (World),Archbishop Thabo Makgoba hit in South Africa church refuge scuffle https://t.co/5DEqQireyA,Fri Nov 15 16:18:45 +0000 2019,0.0,0.0,1.0,0.0
+243,BBC News (World),@rituprasad92 @LauraTrevelyan @csbuckler Ex-US ambassador Marie Yovanovitch talks about how important the US relati… https://t.co/tEoWmbIzYG,Fri Nov 15 15:37:50 +0000 2019,0.2023,0.114,0.886,0.0
+244,BBC News (World),"""It's very intimidating"" - Marie Yovanovitch reacts to President Trump's tweets ""in real time"" reacting to her… https://t.co/O9vmZ7pNyF",Fri Nov 15 15:37:29 +0000 2019,-0.4927,0.0,0.834,0.166
+245,BBC News (World),"Marie Yovanovitch says people who ""felt stymied"" by anti-corruption policy in Ukraine were able to ""conduct a campa… https://t.co/45DLtyWWxv",Fri Nov 15 15:28:42 +0000 2019,0.0,0.0,1.0,0.0
+246,BBC News (World),"""It was a terrible moment... the colour drained from my face"" - Marie Yovanovitch was ""shocked, appalled, devastate… https://t.co/6zQRmrKUob",Fri Nov 15 15:22:31 +0000 2019,-0.8225,0.0,0.619,0.381
+247,BBC News (World),"""It's been a big hit for morale"" - ex-US ambassador to Ukraine Marie Yovanovitch says it's a ""fair statement"" to sa… https://t.co/haiLSviMu1",Fri Nov 15 15:10:56 +0000 2019,0.3182,0.113,0.887,0.0
+248,BBC News (World),"Marie Yovanovitch denies ""unsourced allegations"" she told staff to ignore orders from Trump as he ""was going to be… https://t.co/HSHkcPonmh",Fri Nov 15 15:08:14 +0000 2019,-0.6486,0.0,0.773,0.227
+249,BBC News (World),Kenya Airways stowaway: Mystery of the man who fell from the sky https://t.co/JDcK4Fo2dR,Fri Nov 15 14:54:58 +0000 2019,0.0,0.0,1.0,0.0
+250,BBC News (World),"Marie Yovanovitch, ex-US ambassador to Ukraine, says the US system failed because corrupt Ukrainians ""found America… https://t.co/mmKGtN1vwv",Fri Nov 15 14:49:55 +0000 2019,-0.5106,0.0,0.829,0.171
+251,BBC News (World),@rituprasad92 @LauraTrevelyan @csbuckler Meet the key players involved in the impeachment hearings into the US pres… https://t.co/R5wlBlWrmt,Fri Nov 15 14:44:47 +0000 2019,0.0,0.0,1.0,0.0
+252,BBC News (World),@rituprasad92 @LauraTrevelyan @csbuckler The second day of public hearings into the impeachment inquiry of Presiden… https://t.co/njWhSiIEcO,Fri Nov 15 14:43:50 +0000 2019,0.0,0.0,1.0,0.0
+253,BBC News (World),"US President Donald Trump is in the middle of an impeachment inquiry
+ 
+BBC reporters in the US - @rituprasad92,… https://t.co/ogLaJ3ZNzh",Fri Nov 15 14:39:15 +0000 2019,0.0,0.0,1.0,0.0
+254,BBC News (World),"RT @BBCBusiness: ""It is absurd... It makes me shudder that Boeing and Ethiopian Airlines are at my father's funeral and I'm not""
+
+Eight mon…",Fri Nov 15 14:33:39 +0000 2019,-0.3612,0.0,0.902,0.098
+255,BBC News (World),"Leaf blowers fatal to declining insects, Germans warned https://t.co/O7UUrwjGvY",Fri Nov 15 14:32:28 +0000 2019,-0.6808,0.0,0.556,0.444
+256,BBC News (World),"RT @BBCBreaking: Two Russians jailed for spying are pardoned and freed in Lithuania, in exchange for two Lithuanians and a Norwegian https:…",Fri Nov 15 13:20:20 +0000 2019,0.1027,0.178,0.698,0.124
+257,BBC News (World),Hong Kong protests: China condemns 'appalling' attack on official in UK https://t.co/iH3Jpch84q,Fri Nov 15 12:35:06 +0000 2019,-0.8074,0.0,0.52,0.48
+258,BBC News (World),Netflix to amend Devil Next Door series after Poland complaint https://t.co/rwCLcvxdtH,Fri Nov 15 12:34:08 +0000 2019,-0.765,0.0,0.577,0.423
+259,BBC News (World),Canada refuses visas to over a dozen African AI researchers https://t.co/yOXp6PtfXp,Fri Nov 15 12:33:59 +0000 2019,0.0,0.0,1.0,0.0
+260,CBS News,Hulu raises prices up to 22% to $55 per month for top-tier plan https://t.co/07K05DHMJm https://t.co/HOWAWGkKHn,Fri Nov 15 23:39:31 +0000 2019,0.0,0.0,1.0,0.0
+261,CBS News,"World's ""fastest accelerating car"" is now selling for $3.2 million https://t.co/tY54VfSBPm https://t.co/jyMY7Id9xw",Fri Nov 15 23:19:30 +0000 2019,0.0,0.0,1.0,0.0
+262,CBS News,BREAKING: Texas criminal court of appeals delays Rodney Reed's execution https://t.co/4vsoV037Ch https://t.co/KKFP2y16o1,Fri Nov 15 23:06:47 +0000 2019,-0.5267,0.0,0.764,0.236
+263,CBS News,"Taylor Swift says she's being blocked from singing her songs at American Music Awards, a claim her old label, Big M… https://t.co/VMjEKnB36K",Fri Nov 15 23:00:23 +0000 2019,0.4019,0.193,0.723,0.084
+264,CBS News,Democrats in 1998 and Republicans in 2019 use the same terms to attack impeachment https://t.co/1miygGG9rY https://t.co/R9d1ZCJdOE,Fri Nov 15 22:53:56 +0000 2019,-0.4767,0.0,0.829,0.171
+265,CBS News,“Democrats seem very pleased”: @nikolendc says Democrats feel Yovanovitch came off as a very credible witness… https://t.co/mzs1KOFMg2,Fri Nov 15 22:40:45 +0000 2019,0.0,0.0,1.0,0.0
+266,CBS News,Texas parole board recommends delaying Rodney Reed's execution amid mounting public support https://t.co/Hbxucq0Joi https://t.co/8axujKE0IB,Fri Nov 15 22:39:44 +0000 2019,0.5574,0.277,0.723,0.0
+267,CBS News,Could longtime Trump aid Roger Stone — who was found guilty on all seven charges — be pardoned?… https://t.co/IY9VyqBArU,Fri Nov 15 22:37:11 +0000 2019,-0.5994,0.0,0.754,0.246
+268,CBS News,"Astronauts to perform ""open heart surgery"" on cosmic ray detector in complex spacewalk https://t.co/UcnQEs17AW https://t.co/sIgbmliYxg",Fri Nov 15 22:19:32 +0000 2019,0.0,0.0,1.0,0.0
+269,CBS News,Democrats claim Pres. Trump engaged in witness intimidation after attacks on Yovanovitch https://t.co/1miygGG9rY https://t.co/R8DH3n1T3q,Fri Nov 15 22:17:18 +0000 2019,-0.4588,0.139,0.567,0.294
+270,CBS News,“The president made a mistake”: House Speaker Nancy Pelosi criticized Pres. Trump’s decision to tweet during today’… https://t.co/yAOoqeE7Ii,Fri Nov 15 22:13:00 +0000 2019,-0.3612,0.0,0.865,0.135
+271,CBS News,"RT @CBSNewsRadio: NEW @TakeoutPodcast with @MajorCBS &amp; @RepRaskin👇
+
+▪️ Tensions between Democrats &amp; Republicans
+▪️ Ongoing impeachment inqu…",Fri Nov 15 22:11:36 +0000 2019,-0.4019,0.0,0.886,0.114
+272,CBS News,"FDA warns Dollar Tree it's selling ""potentially unsafe drugs"" https://t.co/3g5xBVB8Ou https://t.co/LnBnts91Sp",Fri Nov 15 22:00:01 +0000 2019,-0.1027,0.0,0.877,0.123
+273,CBS News,"""I was shocked and devastated"": Marie Yovanovitch, the former U.S. ambassador to Ukraine, testified Friday that Pre… https://t.co/QEGxhwqLWl",Fri Nov 15 21:39:55 +0000 2019,-0.3182,0.0,0.881,0.119
+274,CBS News,"For Andrew Yang, New Hampshire is a ""homecoming"" and a big bet https://t.co/huEJFiLhxY https://t.co/JAD5Z3mGcP",Fri Nov 15 21:19:39 +0000 2019,0.0,0.0,1.0,0.0
+275,CBS News,Staffer who overheard Trump call with Sondland testifies in closed hearing https://t.co/CX9DDyKmgt https://t.co/4fsV2i6Qn2,Fri Nov 15 21:00:00 +0000 2019,0.0,0.0,1.0,0.0
+276,CBS News,"RT @CBSEveningNews: WATCH: David Holmes, a staffer at the U.S. Embassy in Kiev who told Amb. Bill Taylor that he overheard Pres. Trump spea…",Fri Nov 15 20:45:55 +0000 2019,0.0,0.0,1.0,0.0
+277,CBS News,"Rep. Elise Stefanik says she disagrees with the ""tone"" of President Trump's tweet about Yovanovitch but says tweets… https://t.co/0uirab36br",Fri Nov 15 20:45:04 +0000 2019,-0.1655,0.0,0.916,0.084
+278,CBS News,Comedian Mo'Nique accuses Netflix of discrimination https://t.co/WHFaMek8d1 https://t.co/BleLNamPt3,Fri Nov 15 20:39:37 +0000 2019,0.0516,0.236,0.545,0.218
+279,CBS News,"Schiff tells @edokeefe about Trump's Yovanovitch tweet: ""This is a part of a pattern to intimidate witnesses. And i… https://t.co/CUmH2jAS9H",Fri Nov 15 20:36:49 +0000 2019,-0.2023,0.0,0.904,0.096
+280,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/byH6DjIac9,Sat Nov 16 02:00:07 +0000 2019,0.0,0.0,1.0,0.0
+281,The New York Times,From @nytparenting: Research suggests that drug-resistant infections among children are on the rise. Here’s how you… https://t.co/94dIIfjIvt,Sat Nov 16 01:42:03 +0000 2019,0.0,0.0,1.0,0.0
+282,The New York Times,"Breaking News: The student who killed 2 of his classmates in a shooting at a Santa Clarita, California, high school… https://t.co/3OpjjG5TPQ",Sat Nov 16 01:25:01 +0000 2019,-0.6705,0.0,0.791,0.209
+283,The New York Times,"RT @llerer: Obama wades into the 2020 race, warning of the dangers of listening to “certain left-leaning twitter feeds” or “the activist wi…",Sat Nov 16 01:20:03 +0000 2019,-0.6808,0.0,0.789,0.211
+284,The New York Times,3 proposals have emerged as possible next chapters for Rikers: turning it into a renewable energy hub; adding a run… https://t.co/Ev47baDDr9,Sat Nov 16 01:00:09 +0000 2019,0.2732,0.11,0.89,0.0
+285,The New York Times,"RT @NickAtNews: NEW: No manifesto, diary, or suicide note found in the Santa Clarita high school shooting.
+
+Police do not know why a 16yo.…",Sat Nov 16 00:52:39 +0000 2019,-0.7717,0.0,0.758,0.242
+286,The New York Times,"As Marie Yovanovitch, the former ambassador to Ukraine, testified on the second day of public impeachment hearings,… https://t.co/oQ8TKh1Ds5",Sat Nov 16 00:40:03 +0000 2019,0.0,0.0,1.0,0.0
+287,The New York Times,"RT @tarasbernard: It's FAFSA season, that time of year when families learn how much they're expected to pay for college. But that figure is…",Sat Nov 16 00:20:04 +0000 2019,-0.0516,0.0,0.95,0.05
+288,The New York Times,"“I knew it was just a shirt. But the longer I left it there, the more it grew into a symbol of something bigger.“ https://t.co/a88bWIl2fQ",Sat Nov 16 00:10:03 +0000 2019,0.0,0.0,1.0,0.0
+289,The New York Times,"Breaking News: President Trump, overruling military leaders, cleared 3 service members accused of war crimes, inclu… https://t.co/55eNy7soQD",Fri Nov 15 23:55:06 +0000 2019,-0.6908,0.068,0.634,0.298
+290,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/MPb7UUktNQ,Fri Nov 15 23:40:04 +0000 2019,0.0,0.0,1.0,0.0
+291,The New York Times,Want to know if there might be a camera where it shouldn’t be? It’s not paranoid to take precautions and check your… https://t.co/V4s5hFqV4S,Fri Nov 15 23:20:05 +0000 2019,0.2593,0.132,0.868,0.0
+292,The New York Times,Getting together with a local on a trip abroad can take you beyond the tourist sites and Instagram opportunities. H… https://t.co/NArTDp732J,Fri Nov 15 23:00:15 +0000 2019,0.3818,0.126,0.874,0.0
+293,The New York Times,President Trump tweeted attacks about Marie Yovanovitch as she testified publicly in the impeachment inquiry on Fri… https://t.co/nH4dFZYUG1,Fri Nov 15 22:36:43 +0000 2019,-0.4404,0.0,0.854,0.146
+294,The New York Times,"RT @SherylNYT: ""Shocked, appalled, devastated."" That's how Marie Yovanovitch felt after she learned President Trump told the president of U…",Fri Nov 15 22:22:22 +0000 2019,-0.4588,0.0,0.864,0.136
+295,The New York Times,Critic’s Notebook: A mid-hearing Twitter attack from President Trump made its way into Marie Yovanovitch’s testimon… https://t.co/cWdfTjm8Sl,Fri Nov 15 22:00:12 +0000 2019,-0.4767,0.0,0.829,0.171
+296,The New York Times,"For teens who've grown up online, the internet is a space for reinvention. “We all contain multitudes. The kids see… https://t.co/zhjQk6zkrh",Fri Nov 15 21:45:06 +0000 2019,0.0,0.0,1.0,0.0
+297,The New York Times,"In a devastating indictment of foreign policy in the Trump era, Marie Yovanovitch outlined the harm to U.S. diploma… https://t.co/Zrtx2fB57U",Fri Nov 15 21:15:06 +0000 2019,-0.8316,0.0,0.685,0.315
+298,The New York Times,RT @dougmillsnyt: .@realDonaldTrump's tweet is shown on a TV as Former Ambassador to Ukraine Marie Yovanovitch looks on as she appears befo…,Fri Nov 15 21:06:12 +0000 2019,0.0,0.0,1.0,0.0
+299,The New York Times,"The hearing room breaks into applause for Marie Yovanovitch, the former U.S. ambassador to Ukraine, at the conclusi… https://t.co/KAnF0wz0Ud",Fri Nov 15 21:00:46 +0000 2019,0.4215,0.135,0.865,0.0
+300,Fox News,"Devotees lit earthen lamps in Ayodhya, India as part of Diwali celebrations, also known as a festival of lights, on… https://t.co/uWGZnrkvqD",Thu Nov 08 07:51:00 +0000 2018,0.5719,0.207,0.793,0.0
+301,Fox News,".@TGowdySC on Jeff Sessions resigning: ""It was going to happen...He's been a proverbial dead man walking for severa… https://t.co/ojKL4KMFTz",Thu Nov 08 07:41:00 +0000 2018,-0.7351,0.0,0.721,0.279
+302,Fox News,Mob chants threats outside @TuckerCarlson’s DC home https://t.co/IJE8m5gjWi,Thu Nov 08 07:31:00 +0000 2018,-0.4215,0.0,0.714,0.286
+303,Fox News,".@TuckerCarlson: ""Supporting marriage and children is the best, maybe the only way, for Republicans or any of us to… https://t.co/fqPwC8XTaY",Thu Nov 08 07:21:00 +0000 2018,0.7964,0.283,0.717,0.0
+304,Fox News,.@KennedyNation: Dems in 2020 better without Nancy https://t.co/54vTCiffG4,Thu Nov 08 07:16:00 +0000 2018,0.4404,0.293,0.707,0.0
+305,Fox News,Battleground-state Dems who opposed Kavanaugh all defeated https://t.co/guqMSVjd74,Thu Nov 08 07:11:00 +0000 2018,-0.4767,0.0,0.693,0.307
+306,Fox News,".@Jim_Jordan on his run for House GOP leader: “We have to match [@POTUS’s] intensity, that’s what I want to do. If… https://t.co/2VOW1ykCsI",Thu Nov 08 07:01:00 +0000 2018,0.0772,0.061,0.939,0.0
+307,Fox News,.@senatemajldr: Dem Votes Against Kavanaugh Were a 'Godsend' to GOP in Midterms https://t.co/ietr8sP4EQ,Thu Nov 08 06:51:00 +0000 2018,0.0,0.0,1.0,0.0
+308,Fox News,.@marcthiessen: “There’s lots of things that Democrats could take a stand on that they find inherently unacceptable… https://t.co/c7UFDzFd60,Thu Nov 08 06:41:00 +0000 2018,0.0,0.0,1.0,0.0
+309,Fox News,".@DarrellIssa on the Mueller probe: ""Two years is a long time to look for a crime you can't prove.""… https://t.co/plX9kxpSXy",Thu Nov 08 06:36:00 +0000 2018,-0.5423,0.0,0.829,0.171
+310,Fox News,"Second teen dies of gunshot wound after Oklahoma mom's rampage, authorities say https://t.co/VUQxsa3mq3",Thu Nov 08 06:31:00 +0000 2018,0.0,0.0,1.0,0.0
+311,Fox News,.@marcthiessen: “The president today made very clear that he wants to cut deals with the Democrats. And quite frank… https://t.co/MGVdJQVfUt,Thu Nov 08 06:21:00 +0000 2018,0.2006,0.126,0.783,0.091
+312,Fox News,"Florida Highway Patrol cruiser hits 142 mph in pursuit, catches on fire https://t.co/GqWKI45AAm",Thu Nov 08 06:11:00 +0000 2018,-0.34,0.0,0.833,0.167
+313,Fox News,Democratic strategist @LeslieMarshall: “What we need is not a wall — and not a wall that we can’t afford — but comp… https://t.co/TzRWVJQeVv,Thu Nov 08 06:01:00 +0000 2018,0.0,0.0,1.0,0.0
+314,Fox News,"Sex offender gets 22 years after missing boy, 14, found in his room at halfway house, authorities say https://t.co/sDd0VQzob4",Thu Nov 08 05:51:00 +0000 2018,-0.5719,0.0,0.783,0.217
+315,Fox News,".@POTUS touts Senate gains, @LelandVittert breaks down the results @foxnewsnight https://t.co/VMzif8sgHH",Thu Nov 08 05:41:00 +0000 2018,0.3182,0.192,0.72,0.088
+316,Fox News,Former Kavanaugh colleague among group being considered to replace Sessions as AG: reports https://t.co/HxAlDZx2Mg,Thu Nov 08 05:31:00 +0000 2018,0.0,0.0,1.0,0.0
+317,Fox News,"Too close to call: Meticulous vote count transpiring in Arizona Senate race, @aacuna1 reports @foxnewsnight https://t.co/DV6EX4Ogxe",Thu Nov 08 05:26:00 +0000 2018,0.0,0.0,1.0,0.0
+318,Fox News,"Former SEAL Mocked by 'SNL' Wins TX House Seat, Calls for More Vets in Congress https://t.co/T0PAhopphH… https://t.co/qhS5BVOE2U",Thu Nov 08 05:21:01 +0000 2018,0.6841,0.298,0.603,0.099
+319,Fox News,South Carolina voter told to remove 'Trump' shirt in order to vote: report https://t.co/xWY2EdSpDF,Thu Nov 08 05:11:00 +0000 2018,0.0,0.0,1.0,0.0
+320,CNN,Labor talks between Fiat Chrysler and the United Auto Workers union get underway in earnest next week https://t.co/enZw8bylGj,Sat Nov 16 03:25:12 +0000 2019,0.7269,0.276,0.724,0.0
+321,CNN,"Whether or not you can read a write could be a factor in your ability to stave off dementia as you grow older, acco… https://t.co/Tx2JRPXAlR",Sat Nov 16 03:16:04 +0000 2019,0.3182,0.095,0.905,0.0
+322,CNN,"Former President Barack Obama urged the field of Democratic presidential hopefuls to ""pay some attention to where v… https://t.co/jNV4sjY9Ap",Sat Nov 16 03:05:29 +0000 2019,-0.1027,0.0,0.928,0.072
+323,CNN,"When Monica Gutierrez sent Ashton Kutcher a text and asked him to help her son's cross-country team get new shoes,… https://t.co/seenvS3Sgq",Sat Nov 16 02:57:29 +0000 2019,0.4019,0.124,0.876,0.0
+324,CNN,People with Android phones in the United States will now be able to opt into the new texting service that Google ca… https://t.co/0xslOlVvtW,Sat Nov 16 02:53:45 +0000 2019,0.4215,0.113,0.887,0.0
+325,CNN,"Exclusive: After a private White House meeting, Giuliani associate Lev Parnas said he was on a ""secret mission"" for… https://t.co/VXFFI0MHyT",Sat Nov 16 02:47:58 +0000 2019,0.128,0.081,0.919,0.0
+326,CNN,"WeWork, the co-working startup on unsteady financial footing, is spending $438 million to renovate a building in Ne… https://t.co/4EpZ5kWNIy",Sat Nov 16 02:43:37 +0000 2019,0.0,0.0,1.0,0.0
+327,CNN,"""I view this as a major development, this is another very credible witness...who heard the President's voice with h… https://t.co/JaI7sAFzOQ",Sat Nov 16 02:40:56 +0000 2019,0.0,0.0,1.0,0.0
+328,CNN,"Former US Ambassador to Ukraine Marie Yovanovitch testified publicly, telling her story about how President Trump r… https://t.co/iKq4Q4Qc3k",Sat Nov 16 02:37:44 +0000 2019,0.0,0.0,1.0,0.0
+329,CNN,"Exclusive: Giuliani associate Lev Parnas said that after a private meeting in the White House, he was on a ""secret… https://t.co/0wqHCgW6S1",Sat Nov 16 02:10:05 +0000 2019,0.128,0.077,0.923,0.0
+330,CNN,"Bill Gates has surpassed Amazon CEO Jeff Bezos to reclaim the distinction of richest person in the world, with a ne… https://t.co/px0YNqVbxK",Sat Nov 16 02:01:57 +0000 2019,0.6249,0.212,0.788,0.0
+331,CNN,"""This has to be the worst day of the presidency so far for Donald Trump... this is the worst day,"" says David Gerge… https://t.co/Fi3mbJ5Vma",Sat Nov 16 02:00:07 +0000 2019,-0.8481,0.0,0.728,0.272
+332,CNN,"President Trump granted full pardons to Army 1st Lt. Clint Lorance and Army Major Mathew Golsteyn.
+
+He also restore… https://t.co/CT0KLpPDk5",Sat Nov 16 01:59:16 +0000 2019,0.4939,0.189,0.811,0.0
+333,CNN,"In closed-door testimony as part of the impeachment inquiry, David Holmes told lawmakers that Gordon Sondland had t… https://t.co/sC6fRuDpNh",Sat Nov 16 01:50:27 +0000 2019,0.0,0.0,1.0,0.0
+334,CNN,The House Ethics Committee released updates on their investigations into four lawmakers. Here are the details on th… https://t.co/HcYYoWE2bg,Sat Nov 16 01:44:30 +0000 2019,0.0,0.0,1.0,0.0
+335,CNN,"The suspected killer in the California school shooting has died, officials say https://t.co/hUZe7i60qO",Sat Nov 16 01:41:08 +0000 2019,-0.8689,0.0,0.505,0.495
+336,CNN,Here are three questions raised by the newly released rough transcript of President Trump's first call with Ukraini… https://t.co/UXiMDafxTJ,Sat Nov 16 01:32:09 +0000 2019,0.0,0.0,1.0,0.0
+337,CNN,Asked about the discrepancy between the April readout of Trump's phone call with the Ukrainian President and the ro… https://t.co/IViVQGBGyh,Sat Nov 16 01:24:04 +0000 2019,0.0,0.0,1.0,0.0
+338,CNN,"Attorney General William Barr defended presidential power in a fiery speech to the conservative Federalist Society,… https://t.co/ljFmhXFCy0",Sat Nov 16 01:07:29 +0000 2019,-0.34,0.0,0.862,0.138
+339,CNN,"""It didn't work,"" says @RepSwalwell of President Trump's attempts to intimidate Marie Yovanovitch.
+
+She ""proved her… https://t.co/3Uz4HkPzWz",Sat Nov 16 01:00:54 +0000 2019,-0.2023,0.0,0.899,0.101
+340,BBC News (World),"Frozen 2: Sequel warms some film critics' hearts, but others stay ice cool ❄️❄️ 
+
+https://t.co/a0iKdO5iJh",Fri Nov 15 12:33:53 +0000 2019,0.4404,0.249,0.663,0.088
+341,BBC News (World),Climate change: Warming signal links global floods and fires https://t.co/0qVmr2kOBo,Fri Nov 15 12:12:51 +0000 2019,0.1531,0.151,0.849,0.0
+342,BBC News (World),Russians pardoned in Lithuania paving way for spy swap https://t.co/N81WJksVyK,Fri Nov 15 11:16:09 +0000 2019,0.2263,0.174,0.826,0.0
+343,BBC News (World),"""I've never been to school because my family was poor""
+
+South Korea has one of the lowest birth rates in the world,… https://t.co/Q9D2MCF04O",Fri Nov 15 11:06:21 +0000 2019,-0.6908,0.0,0.787,0.213
+344,BBC News (World),Flooded Venice battles with new tidal surge https://t.co/QpEkWEcGSR,Fri Nov 15 11:01:01 +0000 2019,-0.3818,0.0,0.729,0.271
+345,BBC News (World),SA post office rapist and murderer given life https://t.co/1QrvF8TTNp,Fri Nov 15 11:00:53 +0000 2019,-0.8885,0.0,0.424,0.576
+346,BBC News (World),"RT @BBCSteveR: Today’s pro-Kremlin press portrays Russia as a strong country (Putin on the world stage, “naval power growing”). Other paper…",Fri Nov 15 10:46:40 +0000 2019,0.5106,0.148,0.852,0.0
+347,BBC News (World),Bolivia crisis: Morales 'should be prosecuted' upon return https://t.co/svPHbmdvap,Fri Nov 15 10:36:12 +0000 2019,-0.7717,0.0,0.511,0.489
+348,BBC News (World),Israel-Gaza ceasefire strained by rockets and air strikes https://t.co/oQKXJQIjZX,Fri Nov 15 09:46:24 +0000 2019,-0.6369,0.0,0.574,0.426
+349,BBC News (World),How did Vodafone lose $7bn in India in just one quarter? https://t.co/BVGU1bqbTO,Fri Nov 15 09:40:36 +0000 2019,-0.4019,0.0,0.803,0.197
+350,BBC News (World),Chile singer exposes breasts in protest at Latin Grammys https://t.co/d5OnfFhx1J,Fri Nov 15 09:33:06 +0000 2019,-0.3612,0.0,0.696,0.304
+351,BBC News (World),Maria Bailey: Swing fall case TD deselected by Fine Gael https://t.co/KtJwG50xG9,Fri Nov 15 09:08:33 +0000 2019,0.2023,0.153,0.847,0.0
+352,BBC News (World),"RT @BBCMaryam: A new study suggests long meetings at work are more about ‘therapy rather than solutions’, we want to know, do you think mee…",Fri Nov 15 07:39:55 +0000 2019,0.0772,0.053,0.947,0.0
+353,BBC News (World),RT @BBCWorld: Hong Kong protests: Man dies amid clashes https://t.co/q3mddmLWsW,Fri Nov 15 07:15:55 +0000 2019,-0.2263,0.0,0.826,0.174
+354,BBC News (World),RT @BBCNews: MH17 disaster: Phone-taps 'show Russia directed Ukraine rebels' https://t.co/swWon74fkS,Fri Nov 15 07:15:30 +0000 2019,-0.7096,0.0,0.604,0.396
+355,BBC News (World),Dublin: Gove and Sturgeon at British-Irish Council meeting https://t.co/czDEfn6Nvi,Fri Nov 15 06:57:27 +0000 2019,0.0,0.0,1.0,0.0
+356,BBC News (World),A rubbish story: China's mega-dump full 25 years ahead of schedule https://t.co/LnMd5PauG4,Fri Nov 15 06:55:17 +0000 2019,0.0,0.0,1.0,0.0
+357,BBC News (World),"RT @VFritzNews: In it for the ultra long haul. 
+
+Today we want to know - would YOU want to spend more than 19 hours non-stop flying? 
+
+Our…",Fri Nov 15 04:10:11 +0000 2019,0.1531,0.098,0.902,0.0
+358,BBC News (World),Australia fires: New blazes forecast as temperatures rise https://t.co/jY0B90xxzJ,Fri Nov 15 04:07:54 +0000 2019,0.0,0.0,1.0,0.0
+359,BBC News (World),Quiz of the week: Why did Drake cut short a headline set? https://t.co/jjzmcNbaVL,Fri Nov 15 01:18:27 +0000 2019,-0.2732,0.0,0.84,0.16
+360,CBS News,Yovanovitch is applauded on her way out after the conclusion of her hearing https://t.co/qNx16IztcL https://t.co/S2z2QsMQgR,Fri Nov 15 20:28:33 +0000 2019,0.3612,0.152,0.848,0.0
+361,CBS News,"Schiff delivers closing remarks for Yovanovitch hearing: ""I think you gathered from our comments that we not only g… https://t.co/an8wKEPwOV",Fri Nov 15 20:21:19 +0000 2019,0.0,0.0,1.0,0.0
+362,CBS News,"""Will you be my kidney sista?"": Mom battling Lupus gets organ donation from daughter's teacher… https://t.co/obWjUpxoid",Fri Nov 15 20:19:30 +0000 2019,-0.2732,0.0,0.877,0.123
+363,CBS News,"On State Dept.'s handling of Yovanovitch's removal:
+
+Rep. Sean Maloney: ""Did you expect them to have your back?""
+
+Y… https://t.co/wsFax89Afv",Fri Nov 15 20:10:18 +0000 2019,0.0,0.0,1.0,0.0
+364,CBS News,"Mark Ronson's ""Uptown Funk"" crowned song of the decade https://t.co/sY5lOptEYX https://t.co/zSJN6V2OGH",Fri Nov 15 19:59:39 +0000 2019,0.0,0.0,1.0,0.0
+365,CBS News,"RT @WDYGTN: 2020 presidential candidate Sen. @KamalaHarris is investing heavily in Iowa as the primary season approaches.
+
+@CBSNews' @tperr…",Fri Nov 15 19:59:31 +0000 2019,0.0,0.0,1.0,0.0
+366,CBS News,"As Australia's fragile koala bear colonies are being ravaged by bushfires, rescue centers along the country’s east… https://t.co/s3IAwBgp8V",Fri Nov 15 19:40:17 +0000 2019,0.5106,0.163,0.837,0.0
+367,CBS News,"Yovanovitch says Ukraine and other countries look to America for ""the power of our example,"" and when the U.S. enga… https://t.co/LHEth5W5ND",Fri Nov 15 19:39:00 +0000 2019,0.0,0.0,1.0,0.0
+368,CBS News,"Yovanovitch says she's ""not aware"" of another president asking a foreign country to investigate an American
+
+Rep. J… https://t.co/2TC9pW5hxl",Fri Nov 15 19:29:06 +0000 2019,0.0,0.0,1.0,0.0
+369,CBS News,"RT @CBSEveningNews: .@MajorCBS: ""If all of this was so innocent &amp; so benign, why are federal prosecutors already indicting Lev Parnas &amp; Igo…",Fri Nov 15 19:20:58 +0000 2019,0.6917,0.214,0.786,0.0
+370,CBS News,"RT @CBSEveningNews: Rep. Eric Swalwell (D-CA): ""Pres. Trump smeared you in Ukraine, smeared you in that phone call with Pres. Zelensky and…",Fri Nov 15 19:20:49 +0000 2019,0.0,0.0,1.0,0.0
+371,CBS News,"What have presidents been impeached for? These were the articles of impeachment for Andrew Johnson, Richard Nixon a… https://t.co/9qi9HcMgwd",Fri Nov 15 19:19:30 +0000 2019,0.0,0.0,1.0,0.0
+372,CBS News,"Rep. Chris Stewart says he thinks public support for impeachment is ""going to be less when these hearings are over… https://t.co/HcxCBeTvL7",Fri Nov 15 19:06:53 +0000 2019,0.4019,0.119,0.881,0.0
+373,CBS News,"Stewart: Do you have any information regarding the president of the United States accepting any bribes? 
+Yovanovitc… https://t.co/VEP9vXHezo",Fri Nov 15 19:02:12 +0000 2019,0.6597,0.252,0.748,0.0
+374,CBS News,"Joe Biden reacts to the shooting at Saugus High School in California: ""I'm so tired of people talking about your pr… https://t.co/m6eJ2NmGfq",Fri Nov 15 19:00:48 +0000 2019,-0.5777,0.0,0.849,0.151
+375,CBS News,"RT @CBSEveningNews: Yovanovitch: ""What we do is inherently non-partisan. It is about our national security interests. It's not about what i…",Fri Nov 15 18:51:55 +0000 2019,0.5267,0.188,0.812,0.0
+376,CBS News,"RT @FaceTheNation: AMB. YOVANOVITCH: “In my line of work...all we have is our reputation, and so this has been a very painful period.” http…",Fri Nov 15 18:44:09 +0000 2019,-0.4927,0.0,0.873,0.127
+377,CBS News,There have been more mass shootings than days this year https://t.co/e4qyluMQHA https://t.co/ey9t1UHrI4,Fri Nov 15 18:39:30 +0000 2019,0.0,0.0,1.0,0.0
+378,CBS News,"Yovanovitch says Trump's attacks have had a ""chilling effect"" on her colleagues in foreign service: ""People don't k… https://t.co/fErrduIn4z",Fri Nov 15 18:36:49 +0000 2019,-0.4588,0.0,0.8,0.2
+379,CBS News,"RT @CBSEveningNews: ""I'm not just angry for you I'm angry for every single foreign officer, military officer &amp; every intelligence officer w…",Fri Nov 15 18:30:50 +0000 2019,0.8178,0.309,0.691,0.0
+380,The New York Times,"Next week, we'll hear from Lt. Col. Alexander Vindman, Gordon Sondland, Fiona Hill and others relevant to the inqui… https://t.co/UtI1Q6Q5uL",Fri Nov 15 20:57:18 +0000 2019,0.0,0.0,1.0,0.0
+381,The New York Times,Will streaming spell the end of cinema or revive it? @aoscott — as Professional Couch Potato and Professional Cinep… https://t.co/w2IExzms1n,Fri Nov 15 20:45:01 +0000 2019,0.34,0.118,0.882,0.0
+382,The New York Times,The hearing room broke into applause as Marie Yovanovitch concluded her public testimony in the impeachment inquiry… https://t.co/vBWkSc7dsM,Fri Nov 15 20:38:37 +0000 2019,0.0,0.13,0.741,0.13
+383,The New York Times,Breaking News: The Texas parole board unanimously voted to recommend that the governor delay Rodney Reed’s executio… https://t.co/4xs0HAmONa,Fri Nov 15 20:36:27 +0000 2019,0.0516,0.12,0.769,0.111
+384,The New York Times,The testimony of Marie Yovanovitch has concluded. Here are key moments from her testimony. https://t.co/d1vTDLbhmX,Fri Nov 15 20:32:15 +0000 2019,0.0,0.0,1.0,0.0
+385,The New York Times,The owner of a New York building and 2 others were found guilty in a 2015 gas explosion that killed 2 people and le… https://t.co/V5auISWUnx,Fri Nov 15 20:17:16 +0000 2019,-0.8074,0.0,0.722,0.278
+386,The New York Times,We’ve deleted an earlier tweet to this story to correct our description of Senator Warren’s timeline for enacting Medicare for all.,Fri Nov 15 19:49:00 +0000 2019,0.0,0.0,1.0,0.0
+387,The New York Times,Elizabeth Warren has vowed to pass major health care legislation in the first 100 days of her presidency. But she w… https://t.co/4QPlZhHQMV,Fri Nov 15 19:45:07 +0000 2019,0.2732,0.091,0.909,0.0
+388,The New York Times,"During today’s hearing, Rep. Elise Stefanik brought up the whistleblower. @npfandos, @anniekarni and @julianbarnes… https://t.co/hqzPxvxa3c",Fri Nov 15 19:26:35 +0000 2019,0.0,0.0,1.0,0.0
+389,The New York Times,"Marie Yovanovitch on the ""chilling effect"" of President Trump's actions on the Foreign Service: ""People don't know… https://t.co/s2hlQT0DyI",Fri Nov 15 19:08:05 +0000 2019,-0.0258,0.0,0.939,0.061
+390,The New York Times,How does Marie Yovanovitch’s testimony add to our understanding of the Trump pressure campaign on Zelensky?… https://t.co/jVPFNxcbcg,Fri Nov 15 19:02:23 +0000 2019,-0.296,0.0,0.879,0.121
+391,The New York Times,The FAFSA is the first step to unlocking potential federal financial aid for college. It generates a family’s expec… https://t.co/7N2s2PNM1Z,Fri Nov 15 19:00:14 +0000 2019,0.0,0.0,1.0,0.0
+392,The New York Times,"Twitter detailed its plans to ban political ads on Friday, but no matter what it does the platform faces criticism… https://t.co/50V4b63py3",Fri Nov 15 18:40:09 +0000 2019,-0.6059,0.047,0.742,0.21
+393,The New York Times,"Our congressional correspondent @npfandos gives context to the line of questioning by Steve Castor, the Republican… https://t.co/0t2P743Ii1",Fri Nov 15 18:32:25 +0000 2019,-0.1027,0.0,0.92,0.08
+394,The New York Times,"Our reporter went inside the weird, wild, low-wage world of Mechanical Turk, Amazon's platform for crowdwork or mic… https://t.co/85udGux4LA",Fri Nov 15 18:30:07 +0000 2019,-0.1779,0.0,0.914,0.086
+395,The New York Times,"""The president in realtime is attacking you,"" Rep. Adam Schiff told Marie Yovanovitch as she testified. ""What effec… https://t.co/9JGe840bCM",Fri Nov 15 18:13:33 +0000 2019,-0.4588,0.0,0.857,0.143
+396,The New York Times,"In his questioning, Steve Castor, Republican counsel, attempted to establish that Marie Yovanovitch doesn’t have di… https://t.co/xBXczGtPmV",Fri Nov 15 18:04:48 +0000 2019,-0.1027,0.0,0.92,0.08
+397,The New York Times,Michael Bloomberg is poised to swamp the field with advertising. Deval Patrick has made clear that he aims to compe… https://t.co/DToWNfnBTb,Fri Nov 15 18:00:18 +0000 2019,0.5574,0.195,0.805,0.0
+398,The New York Times,Here's everyone who's been charged in investigations related to the 2016 U.S. election https://t.co/18wiLhI0Kp,Fri Nov 15 17:45:30 +0000 2019,-0.2023,0.0,0.878,0.122
+399,The New York Times,"Read Marie Yovanovitch's opening statements from today's impeachment hearing, in which she describes her family's h… https://t.co/51Hpcsdr4A",Fri Nov 15 17:40:10 +0000 2019,0.0,0.0,1.0,0.0
+400,Fox News,.@POTUS: “Hopefully we can all work together next year to continue delivering for the American people.”… https://t.co/FdLczQZN4g,Thu Nov 08 05:01:00 +0000 2018,0.0,0.0,1.0,0.0
+401,Fox News,Former US Attorney Harry Litman on Whitaker &amp; Mueller probe: “I think most people think it’s unlikely that he would… https://t.co/6W1eHbZ7zZ,Thu Nov 08 04:55:00 +0000 2018,0.0,0.0,1.0,0.0
+402,Fox News,Pete Davidson's 'SNL' castmate Kenan Thompson talks Dan Crenshaw joke: 'They are figuring out a way to right that w… https://t.co/MlIJF907FK,Thu Nov 08 04:50:00 +0000 2018,0.296,0.104,0.896,0.0
+403,Fox News,".@jasoninthehouse: “Attorney General @jeffsessions is a patriot. He was a good Republican, and I applaud him for hi… https://t.co/lqmOqmHcJZ",Thu Nov 08 04:45:00 +0000 2018,0.7096,0.296,0.704,0.0
+404,Fox News,"Tom Dupree on Acting Attorney General Matthew Whitaker: “Calls for him to recuse from Russia, I think, are meritles… https://t.co/74TWeQngjg",Thu Nov 08 04:35:00 +0000 2018,0.0,0.0,1.0,0.0
+405,Fox News,"Cabinet shakeup expected after @jeffsessions pushed out, @edhenry reports @foxnewsnight https://t.co/6UTwyCpZRV https://t.co/MY7kH6s4T7",Thu Nov 08 04:25:00 +0000 2018,-0.1531,0.0,0.873,0.127
+406,Fox News,"New reactions to Sessions resignation, Catherine Herridge has the story @foxnewsnight https://t.co/6UTwyCHBgv https://t.co/FaiATyMSgC",Thu Nov 08 04:14:15 +0000 2018,-0.296,0.0,0.845,0.155
+407,Fox News,MLB star @Bharper3407 rejects $300M offer from Nationals: Reports (via @FoxBusiness) https://t.co/Bgfoyi7fNH,Thu Nov 08 04:05:00 +0000 2018,-0.4939,0.0,0.775,0.225
+408,Fox News,Doug Schoen: Trump shouldn’t have fired Jeff Sessions – here’s why https://t.co/0ITTpZyqyx,Thu Nov 08 03:55:00 +0000 2018,-0.5574,0.0,0.735,0.265
+409,Fox News,"Joseph diGenova on who could replace AG Sessions: ""@ChrisChristie would have the full confidence of @POTUS, which i… https://t.co/3eoxyIurd3",Thu Nov 08 03:52:26 +0000 2018,0.5106,0.155,0.845,0.0
+410,Fox News,‘Brady Bunch’ cast to take part in TV home’s renovation: report https://t.co/rebtV4qkql,Thu Nov 08 03:48:00 +0000 2018,0.0,0.0,1.0,0.0
+411,Fox News,".@TuckerCarlson: Dems' Election Message Was All 'Trump', No Substance https://t.co/CscvHQkfAX",Thu Nov 08 03:42:00 +0000 2018,-0.296,0.0,0.804,0.196
+412,Fox News,"11-year-old in North Carolina charged with putting needles in Halloween candy, police say https://t.co/Dm3F07wpIt",Thu Nov 08 03:35:00 +0000 2018,-0.2023,0.0,0.878,0.122
+413,Fox News,Rhino rescue? Scientists may hold key to saving northern white rhinoceros from extinction  https://t.co/VUifTtCbTk,Thu Nov 08 03:29:00 +0000 2018,0.5106,0.202,0.798,0.0
+414,Fox News,"RT @FoxBusiness: Rick Scott: ""Socialism will not happen in our nation, and it's not going to happen under my watch."" https://t.co/CLNOuNnGNo",Thu Nov 08 03:23:02 +0000 2018,0.0,0.0,1.0,0.0
+415,Fox News,"Democrat Colin Allred, who unseated Rep. Pete Sessions, won't say if he'll back Pelosi https://t.co/mNox8bKgiA",Thu Nov 08 03:23:00 +0000 2018,0.0,0.0,1.0,0.0
+416,Fox News,Surveillance video shows Michigan woman reportedly reversing car into store https://t.co/tJr2cUsZ8a,Thu Nov 08 03:16:01 +0000 2018,0.0,0.0,1.0,0.0
+417,Fox News,".@senatemajldr Mitch McConnell said Wednesday that Democrats and Republicans will have to address health care ""on a… https://t.co/xF54bEhvOA",Thu Nov 08 03:11:00 +0000 2018,0.4939,0.158,0.842,0.0
+418,Fox News,Woman finds her diamond before proposal and 'ring shames' herself https://t.co/uoLHUxHeBD,Thu Nov 08 03:04:00 +0000 2018,-0.0772,0.17,0.638,0.191
+419,Fox News,McDonald's customers’ $5M lawsuit over unwanted Quarter Pounder cheese dismissed by judge https://t.co/yBEvL4cAFK,Thu Nov 08 03:01:47 +0000 2018,-0.4215,0.0,0.743,0.257
+420,CNN,"In the weeks leading up to New Year’s Eve, @LisaLing embeds with the NYPD to find out what it takes to keep New Yor… https://t.co/GdWZOPpRDN",Sat Nov 16 01:00:14 +0000 2019,0.0,0.0,1.0,0.0
+421,CNN,"As President Trump and his supporters seek to build expectations around the report, the Justice Department's inspec… https://t.co/OCfMS6RW0P",Sat Nov 16 00:59:33 +0000 2019,0.743,0.283,0.717,0.0
+422,CNN,"Amazon is adding ""Amazon Pharmacy"" branding to PillPack, the mail-order pharmacy it acquired in 2018 https://t.co/8VXxlwHHxg",Sat Nov 16 00:47:52 +0000 2019,0.34,0.195,0.805,0.0
+423,CNN,Pope Francis said some of the things he's heard targeting Jews and the LGBTQ community remind him of the days of Ad… https://t.co/8AxIBih9lX,Sat Nov 16 00:47:21 +0000 2019,0.0,0.0,1.0,0.0
+424,CNN,Hulu is bumping the price of Hulu + Live TV by nearly 22 percent in its second price hike this year https://t.co/uj2bneR0lg,Sat Nov 16 00:44:41 +0000 2019,0.0,0.0,1.0,0.0
+425,CNN,"President Trump intervened in three high-profile military criminal cases involving war crimes, a decision that igno… https://t.co/hJU6u9daVs",Sat Nov 16 00:19:24 +0000 2019,-0.8074,0.0,0.657,0.343
+426,CNN,The Texas Court of Criminal Appeals blocked the execution of Rodney Reed. The court granted Reed's motion to stay t… https://t.co/f3i4CLLuQQ,Sat Nov 16 00:05:57 +0000 2019,-0.5423,0.078,0.706,0.216
+427,CNN,Read State Department aide David Holmes' opening statement https://t.co/XHu7pEvqwd https://t.co/nsLBiEBuku,Fri Nov 15 23:52:56 +0000 2019,0.0,0.0,1.0,0.0
+428,CNN,"David Holmes, testifying behind closed doors, backs up US diplomat Bill Taylor's version of the call between Presid… https://t.co/FE6PjsxQgH",Fri Nov 15 23:48:32 +0000 2019,-0.0516,0.0,0.938,0.062
+429,CNN,"GOP Rep. Elise Stefanik of New York, a member of the House Intelligence Committee, has played a key role in this we… https://t.co/lLUswK5bfk",Fri Nov 15 23:43:50 +0000 2019,0.6705,0.224,0.776,0.0
+430,CNN,An unflappable Marie Yovanovitch faces down President Trump's taunts | Analysis by CNN's @MaeveReston… https://t.co/V4Y1pLYTGd,Fri Nov 15 23:40:09 +0000 2019,0.0,0.0,1.0,0.0
+431,CNN,"""Clearly [WeWork] is in desperate need of a turnaround, but Legere is not the right man for the job,"" Charles M. El… https://t.co/MKa8rJvrhM",Fri Nov 15 23:37:26 +0000 2019,0.0516,0.079,0.851,0.07
+432,CNN,"Today ""will go down in history as day two of the public impeachment hearings of President Donald Trump, but it also… https://t.co/5tCtLtH6L5",Fri Nov 15 23:27:45 +0000 2019,0.0,0.0,1.0,0.0
+433,CNN,"The ousted US ambassador to Ukraine testified Friday that she was ""shocked and devastated"" after learning that Pres… https://t.co/VWcFSLFrRg",Fri Nov 15 23:18:08 +0000 2019,-0.743,0.0,0.73,0.27
+434,CNN,"President Trump says the economy is ""BOOMING."" But two newly published GDP models paint a starkly different picture… https://t.co/0I9aSmpaDa",Fri Nov 15 23:08:35 +0000 2019,0.0,0.0,1.0,0.0
+435,CNN,"Kateryna Handziuk, who died in 2018 following an acid attack, was brought up today because on April 25 — when Marie… https://t.co/HIazJ5ghm6",Fri Nov 15 22:59:20 +0000 2019,-0.7717,0.0,0.739,0.261
+436,CNN,While some cannabis businesses are hopeful of a market rebound — one even has its sights on a new public listing —… https://t.co/vGB77i1OOo,Fri Nov 15 22:50:30 +0000 2019,0.5106,0.148,0.852,0.0
+437,CNN,The NFL has suspended Cleveland Browns defensive end Myles Garrett indefinitely — and at least for the rest of the… https://t.co/w9wvGQDcZr,Fri Nov 15 22:38:19 +0000 2019,-0.4588,0.05,0.811,0.14
+438,CNN,"Britain's Prince Andrew, the Duke of York, said in an interview that he let the royal family down by associating hi… https://t.co/NQHXwNu6up",Fri Nov 15 22:31:11 +0000 2019,0.0,0.0,1.0,0.0
+439,CNN,"In a historic move, President Trump announced that hospitals will be required to disclose the rates they privately… https://t.co/DDhUDqcIkJ",Fri Nov 15 22:20:48 +0000 2019,0.0,0.0,1.0,0.0
+440,BBC News (World),Africa's top shots: 8-14 November 2019 https://t.co/ZL5rk4zTRV,Fri Nov 15 00:34:41 +0000 2019,0.2023,0.231,0.769,0.0
+441,BBC News (World),Kenya's ugali scare: How safe is your maize flour? https://t.co/Z9AaCJh1qx,Fri Nov 15 00:32:20 +0000 2019,-0.0772,0.206,0.567,0.227
+442,BBC News (World),The hacking threat to India's digital economy dream https://t.co/ZHb0IUwpXa,Fri Nov 15 00:29:56 +0000 2019,-0.34,0.161,0.565,0.274
+443,BBC News (World),Emotional reunions after California school shooting https://t.co/2kPYXrOYFv https://t.co/D249kN7gpd,Fri Nov 15 00:17:35 +0000 2019,0.1531,0.186,0.814,0.0
+444,BBC News (World),Hong Kong protests: Man dies amid clashes https://t.co/q3mddmLWsW,Fri Nov 15 00:13:53 +0000 2019,-0.2263,0.0,0.787,0.213
+445,BBC News (World),Trump impeachment inquiry: Why Ukraine is so important to the US https://t.co/MEZEnN7Uze,Thu Nov 14 23:05:54 +0000 2019,0.3327,0.177,0.823,0.0
+446,BBC News (World),"Manny MUA had it all – followers, sponsorships and fame, but then he was ‘cancelled’
+
+A year later, he reflects on… https://t.co/MC93brXcUS",Thu Nov 14 23:04:23 +0000 2019,0.2382,0.093,0.907,0.0
+447,BBC News (World),US silicone death: Briton Donna Francis sentenced to year in jail https://t.co/9UOI9R5HgL,Thu Nov 14 22:59:08 +0000 2019,-0.6124,0.0,0.667,0.333
+448,BBC News (World),Watching impeachment hearing in Trump country https://t.co/RWCvr2BINK,Thu Nov 14 22:47:39 +0000 2019,0.0,0.0,1.0,0.0
+449,BBC News (World),"Could air conditioning save the planet? 
+[Tap to expand] https://t.co/TXJsaRsncy https://t.co/tflieM35JU",Thu Nov 14 21:39:24 +0000 2019,0.4939,0.242,0.758,0.0
+450,BBC News (World),US gynaecologist 'performed hysterectomies without consent' https://t.co/81HlCBb4hH,Thu Nov 14 21:09:52 +0000 2019,-0.1695,0.0,0.783,0.217
+451,BBC News (World),"RT @BBCBreaking: Two students have been killed and three others injured by 16-year-old who opened fire at school in California, officials s…",Thu Nov 14 20:32:08 +0000 2019,-0.8625,0.0,0.664,0.336
+452,BBC News (World),White House hopeful Elizabeth Warren baits billionaires https://t.co/v1QanJYHl5,Thu Nov 14 20:30:36 +0000 2019,0.5106,0.32,0.68,0.0
+453,BBC News (World),Trump impeachment inquiry: Right-wing media denounce 'boring' TV premiere https://t.co/zBNIGpuhAC,Thu Nov 14 19:30:32 +0000 2019,-0.34,0.0,0.789,0.211
+454,BBC News (World),Ryan Straschnitzki: Paralysed hockey player moves his leg after surgery https://t.co/b8gtKK8lip,Thu Nov 14 19:07:43 +0000 2019,0.0,0.0,1.0,0.0
+455,BBC News (World),Erdogan shows anti-Kurdish video to senators at White House https://t.co/bhWKKFEUs6,Thu Nov 14 18:11:04 +0000 2019,0.0,0.0,1.0,0.0
+456,BBC News (World),Nasa probing oxygen mystery on Mars https://t.co/2cw1gYrSzA,Thu Nov 14 17:27:04 +0000 2019,0.0,0.0,1.0,0.0
+457,BBC News (World),MH17 disaster: Phone-taps 'show Russia directed Ukraine rebels' https://t.co/fEqpLHam7a,Thu Nov 14 17:18:03 +0000 2019,-0.7096,0.0,0.543,0.457
+458,BBC News (World),Australian bushfires: Why do people start fires during fires? https://t.co/DDXXDWES23,Thu Nov 14 17:12:45 +0000 2019,0.0,0.0,1.0,0.0
+459,BBC News (World),Several injured in California school shooting https://t.co/ZgbUQJqMpq,Thu Nov 14 16:49:24 +0000 2019,-0.4019,0.0,0.69,0.31
+460,CBS News,"RT @NicoleSganga: Conversations with half a dozen of Andrew Yang's high school friends reveal a rebellious teen, albeit the kind that still…",Fri Nov 15 18:23:04 +0000 2019,0.6486,0.253,0.661,0.086
+461,CBS News,"Yovanovitch shoots down claims of a Ukrainian ""plan"" or ""plot"" against Trump: ""People are critical, and that does n… https://t.co/2Aygd06wRs",Fri Nov 15 18:22:32 +0000 2019,-0.3182,0.0,0.887,0.113
+462,CBS News,Banksy artwork of a refugee in a life jacket is now under floodwater in Venice https://t.co/3AGsSLOWRl https://t.co/c9o5MgRGxM,Fri Nov 15 18:19:30 +0000 2019,0.0,0.0,1.0,0.0
+463,CBS News,"Yovanovitch says she never met or talked to Hunter Biden, and sidesteps question about whether he got on the Burism… https://t.co/smug8viuFc",Fri Nov 15 18:07:53 +0000 2019,0.0,0.0,1.0,0.0
+464,CBS News,"Pornography can be damaging, especially for those who “probably aren’t mature enough to process what they’re seeing… https://t.co/juzSRhyGD7",Fri Nov 15 18:00:27 +0000 2019,-0.128,0.127,0.724,0.149
+465,CBS News,"Rep. Devin Nunes says the House Intelligence Committee has become the ""House Impeachment Committee"" and that Yovano… https://t.co/8sPribHKlQ",Fri Nov 15 17:46:42 +0000 2019,0.4767,0.154,0.846,0.0
+466,CBS News,"Yovanovitch says rumors of her removal undermined the U.S. position with Ukraine: ""The Ukrainians didn't know what… https://t.co/Ebu0srEqlZ",Fri Nov 15 17:45:15 +0000 2019,-0.3612,0.0,0.872,0.128
+467,CBS News,"Meet Mutley, the dog who crashed a stranger's wedding and helped solve his master's murder https://t.co/Px4CsD0TAJ https://t.co/lGcHHN3tPN",Fri Nov 15 17:39:33 +0000 2019,-0.5994,0.088,0.683,0.229
+468,CBS News,Marie Yovanovitch's hearing has resumed. Watch live and follow our updates: https://t.co/qNx16IztcL https://t.co/d51OU14eqX,Fri Nov 15 17:24:17 +0000 2019,0.0,0.0,1.0,0.0
+469,CBS News,BREAKING: Cleveland Browns' Myles Garrett has been suspended indefinitely by the NFL after helmet hit and fight dur… https://t.co/d8j18MA3XV,Fri Nov 15 17:16:44 +0000 2019,-0.6908,0.0,0.749,0.251
+470,CBS News,RT @edokeefe: Here’s a list of the charges against Roger Stone via @AmberAliNews: https://t.co/0h1miICRh6,Fri Nov 15 16:58:11 +0000 2019,-0.2732,0.0,0.851,0.149
+471,CBS News,"BREAKING: Roger Stone, a former Trump campaign adviser, has been found guilty on all seven counts… https://t.co/AG5vE6BWs3",Fri Nov 15 16:57:06 +0000 2019,-0.4215,0.0,0.843,0.157
+472,CBS News,"RT @margbrennan: Notable excerpt from @realDonaldTrump in April 21 call with Ukraine's Zelensky: ""...When I owned Miss Universe, they alway…",Fri Nov 15 16:47:03 +0000 2019,-0.1531,0.0,0.918,0.082
+473,CBS News,"Disparity in home lending costs minorities millions, researchers find https://t.co/XgWs7Zv8mx https://t.co/GYI7YuwsaG",Fri Nov 15 16:39:39 +0000 2019,0.0,0.0,1.0,0.0
+474,CBS News,"CBSN legal contributor Keir Dougall on Trump's tweet attacking Yovanovitch during her hearing: ""Unfortunately for P… https://t.co/Y4UuyQjQzZ",Fri Nov 15 16:34:50 +0000 2019,-0.5994,0.072,0.67,0.258
+475,CBS News,Dangerous air pollution in India forces Delhi schools to close for 2nd time in 2 weeks https://t.co/55wHo9Bzxc https://t.co/ZhFwbSQ3pw,Fri Nov 15 16:19:40 +0000 2019,-0.4767,0.0,0.838,0.162
+476,CBS News,.@PaulaReidCBS breaks down President Trump's Twitter strategy for the impeachment hearings — and how his tweets cou… https://t.co/BSm6tZMZXk,Fri Nov 15 16:01:16 +0000 2019,0.0,0.0,1.0,0.0
+477,CBS News,Millennials turning to astrology to combat stress https://t.co/2YLedWWxYr https://t.co/MryK471pxp,Fri Nov 15 15:59:49 +0000 2019,-0.6369,0.0,0.574,0.426
+478,CBS News,.@edokeefe says a senior Republican aide told him President Trump's tweet criticizing Yovanovitch during her hearin… https://t.co/de2kW3AHND,Fri Nov 15 15:54:59 +0000 2019,-0.3612,0.0,0.857,0.143
+479,CBS News,".@nancycordes on Yovanovitch's testimony about her removal: ""I don't think I've ever seen anything quite like this… https://t.co/TADUaEsjJJ",Fri Nov 15 15:49:01 +0000 2019,0.4201,0.141,0.859,0.0
+480,The New York Times,The bitter fight between Taylor Swift and the men she said were controlling her most recognizable music has ratchet… https://t.co/FmV8cJHuvW,Fri Nov 15 17:30:07 +0000 2019,-0.5574,0.074,0.702,0.223
+481,The New York Times,"After a brief recess, Marie Yovanovitch is testifying again in the impeachment hearing. Watch our live stream and f… https://t.co/c8RdR0PO3I",Fri Nov 15 17:28:51 +0000 2019,0.0,0.0,1.0,0.0
+482,The New York Times,A controversy over accusations of unwanted touching by a male contestant has created a backlash among fans of the l… https://t.co/VyAyHjq3oy,Fri Nov 15 17:15:03 +0000 2019,-0.296,0.094,0.708,0.198
+483,The New York Times,The Cleveland Browns star Myles Garrett was suspended indefinitely for pulling off the helmet of a rival quarterbac… https://t.co/T6qVpa12cH,Fri Nov 15 17:11:03 +0000 2019,-0.4767,0.0,0.846,0.154
+484,The New York Times,President Trump denigrated Marie Yovanovitch on Twitter even as she testified about how she felt threatened by Trum… https://t.co/HW7G39WiX7,Fri Nov 15 17:00:04 +0000 2019,-0.4588,0.0,0.857,0.143
+485,The New York Times,"Breaking News: Roger Stone, a friend of President Trump, was found guilty in a trial that revived the saga of Russi… https://t.co/BoN4q3Y1bu",Fri Nov 15 16:50:21 +0000 2019,0.1027,0.133,0.75,0.117
+486,The New York Times,"RT @shearm: LATEST -- Here's our latest on the decision by @realDonaldTrump to denigrate Marie Yovanovitch, his former ambassador to Ukrain…",Fri Nov 15 16:44:12 +0000 2019,0.0,0.0,1.0,0.0
+487,The New York Times,The Trump administration is proposing policies aimed at helping patients shop for better prices at hospitals. A leg… https://t.co/rbRoN0Bowm,Fri Nov 15 16:30:07 +0000 2019,0.6249,0.242,0.758,0.0
+488,The New York Times,Who is Marie Yovanovitch and why is she relevant to the impeachment inquiry? Here’s what to know.… https://t.co/eEMgcwaQLJ,Fri Nov 15 16:22:03 +0000 2019,0.0,0.0,1.0,0.0
+489,The New York Times,"""It sounded like a threat."" 
+
+Marie Yovanovitch, the former U.S. ambassador to Ukraine, describes her reaction to P… https://t.co/TLqlTBCXwP",Fri Nov 15 16:13:11 +0000 2019,0.3612,0.128,0.872,0.0
+490,The New York Times,"A new bill in Congress, being introduced a day after 2 students were killed in a school shooting in California, wou… https://t.co/uniHclrtEY",Fri Nov 15 16:00:11 +0000 2019,-0.6705,0.0,0.791,0.209
+491,The New York Times,Conservative allies of President Trump have settled on a message to dismiss the impeachment inquiry against him: Th… https://t.co/2h6pZDkGr3,Fri Nov 15 15:53:06 +0000 2019,0.0,0.0,1.0,0.0
+492,The New York Times,"RT @andylocal: There’s a place on the internet where anyone can find work. It’s run by Amazon, it’s called Mechanical Turk, and you don’t n…",Fri Nov 15 15:30:40 +0000 2019,0.1779,0.069,0.931,0.0
+493,The New York Times,"In her testimony, Marie Yovanovitch said that President Trump’s statements about her “sounded like a threat.""… https://t.co/kEbZxUdsk7",Fri Nov 15 15:27:30 +0000 2019,0.3612,0.143,0.857,0.0
+494,The New York Times,"Read the White House's memo of Trump's April call with Zelensky. The document warns its contents are ""not a verbati… https://t.co/Fux98nuiBP",Fri Nov 15 15:27:30 +0000 2019,-0.1027,0.0,0.931,0.069
+495,The New York Times,The White House released on Friday a memo of President Trump's congratulatory call from April with President Zelens… https://t.co/CZDETkVOsN,Fri Nov 15 15:26:07 +0000 2019,0.0,0.0,1.0,0.0
+496,The New York Times,"""Our Ukraine policy has been thrown into disarray, and shady interests the world over have learned how little it ta… https://t.co/mHzenBn5Kc",Fri Nov 15 15:15:18 +0000 2019,0.25,0.091,0.909,0.0
+497,The New York Times,The competition to get into New York City’s top public high schools — one has admissions rates roughly akin to Yale… https://t.co/DZruqSpgFv,Fri Nov 15 15:00:39 +0000 2019,0.2023,0.083,0.917,0.0
+498,The New York Times,Marie Yovanovitch is potentially a more problematic witness for Republicans because she can say she was personally… https://t.co/YbfICjpad2,Fri Nov 15 15:00:02 +0000 2019,-0.4927,0.0,0.834,0.166
+499,The New York Times,"Marie Yovanovitch ""was considered an obstacle to the furtherance of the president's personal and political agenda,""… https://t.co/GP86DHoIhU",Fri Nov 15 14:48:31 +0000 2019,-0.3612,0.0,0.865,0.135
