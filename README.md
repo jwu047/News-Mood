@@ -1,0 +1,2 @@
+# News-Mood
+Tweepy, vaderSentiment
